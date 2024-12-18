@@ -1,3 +1,8 @@
+#KeepCoding Bootcamp Ciberseguridad | Edición IX
+#Informe Practica Criptografia
+#Realizado por: Oscar Tobar Rios
+#Solucion Punto 3
+
 from Crypto.Cipher import ChaCha20
 from base64 import b64decode, b64encode
 from Crypto.Random import get_random_bytes
@@ -10,7 +15,7 @@ path = os.path.dirname(__file__)
 
 keystore = path + "/KeyStorePracticas"
 
-keystore =  ".\KeyStorePracticas"
+#keystore =  ".\KeyStorePracticas"
 ks = jks.KeyStore.load(keystore, "123456")
 for alias, sk in ks.secret_keys.items():
     if sk.alias == "cifrado-sim-chacha20-256":

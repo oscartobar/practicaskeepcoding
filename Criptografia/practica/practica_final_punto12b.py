@@ -1,3 +1,8 @@
+#KeepCoding Bootcamp Ciberseguridad | Edición IX
+#Informe Practica Criptografia
+#Realizado por: Oscar Tobar Rios
+#Solucion Punto 12B
+
 import json
 from base64 import b64encode, b64decode
 from Crypto.Cipher import AES
