@@ -19,7 +19,7 @@ try:
     for alias, sk in ks.secret_keys.items():
         if sk.alias == "cifrado-sim-aes-256":
             key = sk.key
-    print("La clave es:", key.hex())
+    
     clave = bytes.fromhex(key.hex())
 
     # Descifrado
@@ -28,16 +28,23 @@ try:
     texto_cifrado_entregado = "TQ9SOMKc6aFS9SlxhfK9wT18UXpPCd505Xf5J/5nLI7Of/o0QKIWXg3nu1RRz4QWElezdrLAD5LO4USt3aB/i50nvvJbBiG+le1ZhpR84oI="
     texto_cifrado_b64 = b64decode(texto_cifrado_entregado)
     descifrador = AES.new(clave, AES.MODE_CBC, iv_bytes)
-
-
-    texto_descifrado_pkcs7 = unpad(descifrador.decrypt(texto_cifrado_b64), AES.block_size, style="pkcs7")
-    print("Texto descifrado:", texto_descifrado_pkcs7.decode("utf-8"))
-    texto_descifrado_x923  = unpad(descifrador.decrypt(texto_cifrado_b64), AES.block_size, style="x923")
-    print("Texto descifrado:", texto_descifrado_x923.decode("utf-8", errors="replace"))
-    print("Texto descifrado pkcs7 HEX:", texto_descifrado_pkcs7)
-    print("Texto descifrado x923 HEX :", texto_descifrado_x923)
-    if texto_descifrado_pkcs7.hex != texto_descifrado_x923.hex:
-        print("Los textos descifrados son diferentes")
+    texto_descifrado = unpad(descifrador.decrypt(texto_cifrado_b64), AES.block_size, style="pkcs7")
+    
+    texto_descifrado_pkcs7_conpading = descifrador.decrypt(texto_cifrado_b64)
+    
+    print("Texto descifrado HEX:", texto_descifrado.hex())
+    print("texto_descifrado conpading HEX:", texto_descifrado_pkcs7_conpading.hex() )
+    
+    print("Texto descifrado utf8:", texto_descifrado.decode("utf-8"))
+    #print("texto_descifrado conpading utf8:",  texto_descifrado_pkcs7_conpading.decode("utf-8") )
+    print("texto_descifrado conpading utf8:",  texto_descifrado_pkcs7_conpading )
+    
+    print("Texto descifrado bytes:", texto_descifrado )
+    print("texto_descifrado conpading bytes:",  texto_descifrado_pkcs7_conpading )
+    
+    texto_descifrado = unpad(descifrador.decrypt(texto_cifrado_b64), AES.block_size, style="x923")
+    print("Texto descifrado x923 utf8:", texto_descifrado)
+    
 except (ValueError, KeyError) as error:
     print('Problemas para descifrar....')
     print("El motivo del error es: ", error) 
