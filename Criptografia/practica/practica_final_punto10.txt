@@ -1,0 +1,12 @@
+gpg --import D:\repositorios\keepcoding\github\cripto\Practica\secreta-Pedro.txt
+gpg --import D:\repositorios\keepcoding\github\cripto\Practica\secreta-rrhh.txt
+gpg --import D:\repositorios\keepcoding\github\cripto\Practica\publica-rrhh.txt
+gpg --import D:\repositorios\keepcoding\github\cripto\Practica\publica-Pedro.txt
+
+gpg --list-secret-keys
+gpg --list-keys
+gpg --output xxx.txt --decrypt D:\repositorios\keepcoding\github\cripto\Practica\MensajeRespoDeRaulARRHH.sig
+more xxx.txt
+gpg --local-user RRHH@RRHH --armor --sign mensaje.txt
+gpg --local-user RRHH@RRHH --local-user empresa.com --armor --sign mensajefinal_punto10.txt
+more mensaje.txt.asc
