@@ -1,7 +1,7 @@
 #KeepCoding Bootcamp Ciberseguridad | Edición IX
 #Informe Practica Criptografia
 #Realizado por: Oscar Tobar Rios
-#Solucion Punto 3B
+#Solucion Punto 6
 
 from Crypto.Hash import HMAC, SHA256
 from base64 import b64decode, b64encode

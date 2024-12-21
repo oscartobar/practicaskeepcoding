@@ -1,7 +1,7 @@
 #KeepCoding Bootcamp Ciberseguridad | Edición IX
 #Informe Practica Criptografia
 #Realizado por: Oscar Tobar Rios
-#Solucion Punto 2a
+#Solucion Punto 2b
 
 
 from base64 import b64encode, b64decode
