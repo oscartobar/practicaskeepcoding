@@ -1,0 +1,176 @@
+{
+  "@timestamp": [
+    "2025-01-18T16:29:18.727Z"
+  ],
+  "agent.ephemeral_id": [
+    "6c15b060-7128-41ed-a26b-5a96b1117d06"
+  ],
+  "agent.id": [
+    "a84ffcf3-fe20-432e-94ad-4fc01e4f4098"
+  ],
+  "agent.name": [
+    "kali"
+  ],
+  "agent.name.text": [
+    "kali"
+  ],
+  "agent.type": [
+    "filebeat"
+  ],
+  "agent.version": [
+    "8.17.0"
+  ],
+  "container.id": [
+    "b84ed29c370fe9cca16e2e8eb7f5ebad74767aa5da6d4696e051b4e7e937f43a"
+  ],
+  "container.image.name": [
+    "cowrie/cowrie:latest"
+  ],
+  "container.labels.org_opencontainers_image_authors": [
+    "Michel Oosterhof <michel@oosterhof.net>"
+  ],
+  "container.labels.org_opencontainers_image_base_name": [
+    "gcr.io/distroless/python3-debian12"
+  ],
+  "container.labels.org_opencontainers_image_description": [
+    "Cowrie SSH/Telnet Honeypot"
+  ],
+  "container.labels.org_opencontainers_image_documentation": [
+    "https://docs.cowrie.org"
+  ],
+  "container.labels.org_opencontainers_image_licenses": [
+    "BSD-3-Clause"
+  ],
+  "container.labels.org_opencontainers_image_ref_name": [
+    ""
+  ],
+  "container.labels.org_opencontainers_image_revision": [
+    "Source control revision identifier for the packaged software."
+  ],
+  "container.labels.org_opencontainers_image_source": [
+    "https://github.com/cowrie/cowrie"
+  ],
+  "container.labels.org_opencontainers_image_title": [
+    "Cowrie SSH/Telnet Honeypot"
+  ],
+  "container.labels.org_opencontainers_image_url": [
+    "https://cowrie.org/"
+  ],
+  "container.labels.org_opencontainers_image_vendor": [
+    "Cowrie"
+  ],
+  "container.labels.org_opencontainers_image_version": [
+    ""
+  ],
+  "container.name": [
+    "kind_cori"
+  ],
+  "data_stream.dataset": [
+    "docker.container_logs"
+  ],
+  "data_stream.namespace": [
+    "default"
+  ],
+  "data_stream.type": [
+    "logs"
+  ],
+  "ecs.version": [
+    "8.0.0"
+  ],
+  "elastic_agent.id": [
+    "a84ffcf3-fe20-432e-94ad-4fc01e4f4098"
+  ],
+  "elastic_agent.snapshot": [
+    false
+  ],
+  "elastic_agent.version": [
+    "8.17.0"
+  ],
+  "event.agent_id_status": [
+    "verified"
+  ],
+  "event.dataset": [
+    "docker.container_logs"
+  ],
+  "event.ingested": [
+    "2025-01-18T16:29:38.000Z"
+  ],
+  "event.module": [
+    "docker"
+  ],
+  "host.architecture": [
+    "x86_64"
+  ],
+  "host.containerized": [
+    false
+  ],
+  "host.hostname": [
+    "kali"
+  ],
+  "host.id": [
+    "30e662c5c81d4191bd2444a79c97d2e0"
+  ],
+  "host.ip": [
+    "192.168.16.50",
+    "fe80::440b:b545:c45:ae87",
+    "172.17.0.1",
+    "fe80::42:f9ff:fe17:1a57",
+    "fe80::40ad:cdff:fe8d:b103"
+  ],
+  "host.mac": [
+    "02-42-F9-17-1A-57",
+    "42-AD-CD-8D-B1-03",
+    "52-54-00-A8-96-C6"
+  ],
+  "host.name": [
+    "kali"
+  ],
+  "host.os.codename": [
+    "kali-rolling"
+  ],
+  "host.os.family": [
+    "debian"
+  ],
+  "host.os.kernel": [
+    "6.8.11-amd64"
+  ],
+  "host.os.name": [
+    "Kali GNU/Linux"
+  ],
+  "host.os.name.text": [
+    "Kali GNU/Linux"
+  ],
+  "host.os.platform": [
+    "kali"
+  ],
+  "host.os.type": [
+    "linux"
+  ],
+  "host.os.version": [
+    "2024.3"
+  ],
+  "input.type": [
+    "filestream"
+  ],
+  "log.file.device_id": [
+    "65025"
+  ],
+  "log.file.inode": [
+    "2100062"
+  ],
+  "log.file.path": [
+    "/var/lib/docker/containers/b84ed29c370fe9cca16e2e8eb7f5ebad74767aa5da6d4696e051b4e7e937f43a/b84ed29c370fe9cca16e2e8eb7f5ebad74767aa5da6d4696e051b4e7e937f43a-json.log"
+  ],
+  "log.offset": [
+    16533
+  ],
+  "message": [
+    "2025-01-18T16:29:18+0000 [HoneyPotSSHTransport,2,10.10.163.11] CMD: ls\n"
+  ],
+  "stream": [
+    "stdout"
+  ],
+  "_id": "AZR6P0zBW3qrbMaju2JS",
+  "_index": ".ds-logs-docker.container_logs-default-2025.01.16-000001",
+  "_score": null
+}

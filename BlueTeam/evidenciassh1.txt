@@ -1,0 +1,122 @@
+{
+  "@timestamp": [
+    "2025-01-18T16:29:20.381Z"
+  ],
+  "agent.ephemeral_id": [
+    "2eaeb0ec-17e5-47b1-a448-2f322ada97a4"
+  ],
+  "agent.id": [
+    "a84ffcf3-fe20-432e-94ad-4fc01e4f4098"
+  ],
+  "agent.name": [
+    "kali"
+  ],
+  "agent.type": [
+    "filebeat"
+  ],
+  "agent.version": [
+    "8.17.0"
+  ],
+  "container.id": [
+    "cowri.log"
+  ],
+  "data_stream.dataset": [
+    "generic"
+  ],
+  "data_stream.namespace": [
+    "default"
+  ],
+  "data_stream.type": [
+    "logs"
+  ],
+  "ecs.version": [
+    "8.0.0"
+  ],
+  "elastic_agent.id": [
+    "a84ffcf3-fe20-432e-94ad-4fc01e4f4098"
+  ],
+  "elastic_agent.snapshot": [
+    false
+  ],
+  "elastic_agent.version": [
+    "8.17.0"
+  ],
+  "event.agent_id_status": [
+    "verified"
+  ],
+  "event.dataset": [
+    "generic"
+  ],
+  "event.ingested": [
+    "2025-01-18T16:29:36.000Z"
+  ],
+  "host.architecture": [
+    "x86_64"
+  ],
+  "host.containerized": [
+    false
+  ],
+  "host.hostname": [
+    "kali"
+  ],
+  "host.id": [
+    "30e662c5c81d4191bd2444a79c97d2e0"
+  ],
+  "host.ip": [
+    "192.168.16.50",
+    "fe80::440b:b545:c45:ae87",
+    "172.17.0.1",
+    "fe80::42:f9ff:fe17:1a57",
+    "fe80::40ad:cdff:fe8d:b103"
+  ],
+  "host.mac": [
+    "02-42-F9-17-1A-57",
+    "42-AD-CD-8D-B1-03",
+    "52-54-00-A8-96-C6"
+  ],
+  "host.name": [
+    "kali"
+  ],
+  "host.os.codename": [
+    "kali-rolling"
+  ],
+  "host.os.family": [
+    "debian"
+  ],
+  "host.os.kernel": [
+    "6.8.11-amd64"
+  ],
+  "host.os.name": [
+    "Kali GNU/Linux"
+  ],
+  "host.os.name.text": [
+    "Kali GNU/Linux"
+  ],
+  "host.os.platform": [
+    "kali"
+  ],
+  "host.os.type": [
+    "linux"
+  ],
+  "host.os.version": [
+    "2024.3"
+  ],
+  "input.type": [
+    "log"
+  ],
+  "log.file.path": [
+    "/home/kali/logs/ssh/cowri.log"
+  ],
+  "log.file.path.text": [
+    "/home/kali/logs/ssh/cowri.log"
+  ],
+  "log.offset": [
+    9336
+  ],
+  "message": [
+    "2025-01-18T16:29:18+0000 [HoneyPotSSHTransport,2,10.10.163.11] Command found: ls "
+  ],
+  "_id": "AZR6P0zBW3qrbMacu9tN",
+  "_index": ".ds-logs-generic-default-2025.01.16-000001",
+  "_score": null
+}

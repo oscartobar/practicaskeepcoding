@@ -28,9 +28,12 @@ try:
     texto_cifrado_entregado = "TQ9SOMKc6aFS9SlxhfK9wT18UXpPCd505Xf5J/5nLI7Of/o0QKIWXg3nu1RRz4QWElezdrLAD5LO4USt3aB/i50nvvJbBiG+le1ZhpR84oI="
     texto_cifrado_b64 = b64decode(texto_cifrado_entregado)
     descifrador = AES.new(clave, AES.MODE_CBC, iv_bytes)
+    descifrador2 = AES.new(clave, AES.MODE_CBC, iv_bytes)
+    descifrador3 = AES.new(clave, AES.MODE_CBC, iv_bytes)
+    
     texto_descifrado = unpad(descifrador.decrypt(texto_cifrado_b64), AES.block_size, style="pkcs7")
     
-    texto_descifrado_pkcs7_conpading = descifrador.decrypt(texto_cifrado_b64)
+    texto_descifrado_pkcs7_conpading = descifrador2.decrypt(texto_cifrado_b64)
     
     print("Texto descifrado HEX:", texto_descifrado.hex())
     print("texto_descifrado conpading HEX:", texto_descifrado_pkcs7_conpading.hex() )
@@ -42,7 +45,7 @@ try:
     print("Texto descifrado bytes:", texto_descifrado )
     print("texto_descifrado conpading bytes:",  texto_descifrado_pkcs7_conpading )
     
-    texto_descifrado = unpad(descifrador.decrypt(texto_cifrado_b64), AES.block_size, style="x923")
+    texto_descifrado = unpad(descifrador3.decrypt(texto_cifrado_b64), AES.block_size, style="x923")
     print("Texto descifrado x923 utf8:", texto_descifrado)
     
 except (ValueError, KeyError) as error:

@@ -1,0 +1,234 @@
+{
+  "@timestamp": [
+    "2025-01-18T19:01:45.216Z"
+  ],
+  "agent.ephemeral_id": [
+    "721cf31f-4d2a-4f68-b40a-3e4081283b22"
+  ],
+  "agent.id": [
+    "64f6e342-5540-444a-a55a-0686422950fe"
+  ],
+  "agent.name": [
+    "parrot"
+  ],
+  "agent.type": [
+    "filebeat"
+  ],
+  "agent.version": [
+    "8.17.0"
+  ],
+  "data_stream.dataset": [
+    "suricata.eve"
+  ],
+  "data_stream.namespace": [
+    "default"
+  ],
+  "data_stream.type": [
+    "logs"
+  ],
+  "destination.address": [
+    "142.250.78.65"
+  ],
+  "destination.as.number": [
+    15169
+  ],
+  "destination.as.organization.name": [
+    "GOOGLE"
+  ],
+  "destination.as.organization.name.text": [
+    "GOOGLE"
+  ],
+  "destination.bytes": [
+    19806
+  ],
+  "destination.geo.continent_name": [
+    "North America"
+  ],
+  "destination.geo.country_iso_code": [
+    "US"
+  ],
+  "destination.geo.country_name": [
+    "United States"
+  ],
+  "destination.geo.location": [
+    {
+      "coordinates": [
+        -97.8220000024885,
+        37.75099997408688
+      ],
+      "type": "Point"
+    }
+  ],
+  "destination.ip": [
+    "142.250.78.65"
+  ],
+  "destination.packets": [
+    35
+  ],
+  "destination.port": [
+    443
+  ],
+  "ecs.version": [
+    "8.11.0"
+  ],
+  "elastic_agent.id": [
+    "64f6e342-5540-444a-a55a-0686422950fe"
+  ],
+  "elastic_agent.snapshot": [
+    false
+  ],
+  "elastic_agent.version": [
+    "8.17.0"
+  ],
+  "event.agent_id_status": [
+    "verified"
+  ],
+  "event.category": [
+    "network"
+  ],
+  "event.created": [
+    "2025-01-18T19:01:45.726Z"
+  ],
+  "event.dataset": [
+    "suricata.eve"
+  ],
+  "event.duration": [
+    172046000000
+  ],
+  "event.end": [
+    "2025-01-18T18:57:38.395Z"
+  ],
+  "event.ingested": [
+    "2025-01-18T19:01:55.000Z"
+  ],
+  "event.kind": [
+    "event"
+  ],
+  "event.module": [
+    "suricata"
+  ],
+  "event.start": [
+    "2025-01-18T18:54:46.349Z"
+  ],
+  "event.type": [
+    "connection",
+    "end"
+  ],
+  "input.type": [
+    "log"
+  ],
+  "log.file.path": [
+    "/var/log/suricata/eve.json"
+  ],
+  "log.offset": [
+    2982947
+  ],
+  "message": [
+    ""
+  ],
+  "network.bytes": [
+    23481
+  ],
+  "network.community_id": [
+    "1:cp1S2goC9ZARl27WBrv+mcrhYZc="
+  ],
+  "network.packets": [
+    62
+  ],
+  "network.protocol": [
+    "tls"
+  ],
+  "network.transport": [
+    "tcp"
+  ],
+  "observer.hostname": [
+    "parrot"
+  ],
+  "observer.ip": [
+    "192.168.100.50",
+    "fe80::fa82:5c4d:f176:1723"
+  ],
+  "observer.mac": [
+    "52-54-00-A0-A2-5E"
+  ],
+  "observer.product": [
+    "Suricata"
+  ],
+  "observer.type": [
+    "ids"
+  ],
+  "observer.vendor": [
+    "OISF"
+  ],
+  "related.ip": [
+    "192.168.100.50",
+    "142.250.78.65"
+  ],
+  "source.address": [
+    "192.168.100.50"
+  ],
+  "source.bytes": [
+    3675
+  ],
+  "source.ip": [
+    "192.168.100.50"
+  ],
+  "source.packets": [
+    27
+  ],
+  "source.port": [
+    52216
+  ],
+  "suricata.eve.event_type": [
+    "flow"
+  ],
+  "suricata.eve.flow.age": [
+    172
+  ],
+  "suricata.eve.flow.alerted": [
+    true
+  ],
+  "suricata.eve.flow.reason": [
+    "timeout"
+  ],
+  "suricata.eve.flow.state": [
+    "closed"
+  ],
+  "suricata.eve.flow_id": [
+    "1569621450053349"
+  ],
+  "suricata.eve.in_iface": [
+    "ens3"
+  ],
+  "suricata.eve.tcp.ack": [
+    true
+  ],
+  "suricata.eve.tcp.fin": [
+    true
+  ],
+  "suricata.eve.tcp.psh": [
+    true
+  ],
+  "suricata.eve.tcp.state": [
+    "closed"
+  ],
+  "suricata.eve.tcp.syn": [
+    true
+  ],
+  "suricata.eve.tcp.tcp_flags": [
+    "1b"
+  ],
+  "suricata.eve.tcp.tcp_flags_tc": [
+    "1b"
+  ],
+  "suricata.eve.tcp.tcp_flags_ts": [
+    "1b"
+  ],
+  "tags": [
+    "forwarded",
+    "suricata-eve"
+  ],
+  "_id": "AZR6y0zBW3qrbMYP1QGX",
+  "_index": ".ds-logs-suricata.eve-default-2025.01.18-000001",
+  "_score": null
+}
