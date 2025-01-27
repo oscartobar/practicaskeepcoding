@@ -1,0 +1,155 @@
+{
+  "@timestamp": [
+    "2025-01-27T03:33:43.851Z"
+  ],
+  "agent.ephemeral_id": [
+    "807e97ef-c938-4eb1-9138-4c593633fb62"
+  ],
+  "agent.id": [
+    "d743733b-391f-44ff-b176-42cf5485ef34"
+  ],
+  "agent.name": [
+    "parrot"
+  ],
+  "agent.type": [
+    "filebeat"
+  ],
+  "agent.version": [
+    "8.17.1"
+  ],
+  "data_stream.dataset": [
+    "suricata.eve"
+  ],
+  "data_stream.namespace": [
+    "default"
+  ],
+  "data_stream.type": [
+    "logs"
+  ],
+  "destination.address": [
+    "192.168.250.100"
+  ],
+  "destination.ip": [
+    "192.168.250.100"
+  ],
+  "destination.port": [
+    22
+  ],
+  "ecs.version": [
+    "8.11.0"
+  ],
+  "elastic_agent.id": [
+    "d743733b-391f-44ff-b176-42cf5485ef34"
+  ],
+  "elastic_agent.snapshot": [
+    false
+  ],
+  "elastic_agent.version": [
+    "8.17.1"
+  ],
+  "event.agent_id_status": [
+    "verified"
+  ],
+  "event.category": [
+    "network"
+  ],
+  "event.created": [
+    "2025-01-27T03:33:44.768Z"
+  ],
+  "event.dataset": [
+    "suricata.eve"
+  ],
+  "event.ingested": [
+    "2025-01-27T03:33:54.000Z"
+  ],
+  "event.kind": [
+    "event"
+  ],
+  "event.module": [
+    "suricata"
+  ],
+  "event.type": [
+    "protocol"
+  ],
+  "input.type": [
+    "log"
+  ],
+  "log.file.path": [
+    "/var/log/suricata/eve.json"
+  ],
+  "log.offset": [
+    4715342
+  ],
+  "network.community_id": [
+    "1:IKGpUzclek26dVS2DPRVuteJbRk="
+  ],
+  "network.protocol": [
+    "ssh"
+  ],
+  "network.transport": [
+    "tcp"
+  ],
+  "observer.hostname": [
+    "parrot"
+  ],
+  "observer.ip": [
+    "192.168.250.100",
+    "fe80::3089:5ee2:8ca4:d46a"
+  ],
+  "observer.mac": [
+    "52-54-00-A0-A2-5E"
+  ],
+  "observer.product": [
+    "Suricata"
+  ],
+  "observer.type": [
+    "ids"
+  ],
+  "observer.vendor": [
+    "OISF"
+  ],
+  "related.ip": [
+    "192.168.100.10",
+    "192.168.250.100"
+  ],
+  "source.address": [
+    "192.168.100.10"
+  ],
+  "source.ip": [
+    "192.168.100.10"
+  ],
+  "source.port": [
+    60492
+  ],
+  "suricata.eve.event_type": [
+    "ssh"
+  ],
+  "suricata.eve.flow_id": [
+    "1972717110135924"
+  ],
+  "suricata.eve.in_iface": [
+    "ens3"
+  ],
+  "suricata.eve.ssh.client.proto_version": [
+    "2.0"
+  ],
+  "suricata.eve.ssh.client.software_version": [
+    "OpenSSH_for_Windows_9.5"
+  ],
+  "suricata.eve.ssh.server.proto_version": [
+    "2.0"
+  ],
+  "suricata.eve.ssh.server.software_version": [
+    "OpenSSH_9.2p1"
+  ],
+  "suricata.eve.tx_id": [
+    0
+  ],
+  "tags": [
+    "forwarded",
+    "suricata-eve"
+  ],
+  "_id": "AZSl0kqFUxAORxGowfL2",
+  "_index": ".ds-logs-suricata.eve-default-2025.01.18-000001",
+  "_score": null
+}

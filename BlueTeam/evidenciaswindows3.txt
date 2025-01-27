@@ -1,0 +1,156 @@
+{
+  "@timestamp": [
+    "2025-01-16T01:56:56.230Z"
+  ],
+  "agent.ephemeral_id": [
+    "cbc9be26-3d71-49be-a9d7-6ed4915bdc4e"
+  ],
+  "agent.id": [
+    "da9a681c-3265-4f44-a820-d74d0444418d"
+  ],
+  "agent.name": [
+    "DESKTOP-PGGB831"
+  ],
+  "agent.name.text": [
+    "DESKTOP-PGGB831"
+  ],
+  "agent.type": [
+    "filebeat"
+  ],
+  "agent.version": [
+    "8.17.0"
+  ],
+  "data_stream.dataset": [
+    "system.application"
+  ],
+  "data_stream.namespace": [
+    "default"
+  ],
+  "data_stream.type": [
+    "logs"
+  ],
+  "ecs.version": [
+    "8.11.0"
+  ],
+  "elastic_agent.id": [
+    "da9a681c-3265-4f44-a820-d74d0444418d"
+  ],
+  "elastic_agent.snapshot": [
+    false
+  ],
+  "elastic_agent.version": [
+    "8.17.0"
+  ],
+  "event.action": [
+    "None"
+  ],
+  "event.agent_id_status": [
+    "verified"
+  ],
+  "event.code": [
+    "1130"
+  ],
+  "event.created": [
+    "2025-01-16T06:31:20.728Z"
+  ],
+  "event.dataset": [
+    "system.application"
+  ],
+  "event.ingested": [
+    "2025-01-16T06:31:33.000Z"
+  ],
+  "event.kind": [
+    "event"
+  ],
+  "event.module": [
+    "system"
+  ],
+  "event.provider": [
+    ".NET Runtime Optimization Service"
+  ],
+  "host.architecture": [
+    "x86_64"
+  ],
+  "host.hostname": [
+    "DESKTOP-PGGB831"
+  ],
+  "host.id": [
+    "caa1d453-ab67-4999-bba9-2a27f98fe24d"
+  ],
+  "host.ip": [
+    "fe80::5266:3ed0:990b:b7ba",
+    "10.10.163.11"
+  ],
+  "host.mac": [
+    "52-54-00-F1-EB-C3"
+  ],
+  "host.name": [
+    "desktop-pggb831"
+  ],
+  "host.os.build": [
+    "19045.5371"
+  ],
+  "host.os.family": [
+    "windows"
+  ],
+  "host.os.kernel": [
+    "10.0.19041.5369 (WinBuild.160101.0800)"
+  ],
+  "host.os.name": [
+    "Windows 10 Pro N"
+  ],
+  "host.os.name.text": [
+    "Windows 10 Pro N"
+  ],
+  "host.os.platform": [
+    "windows"
+  ],
+  "host.os.type": [
+    "windows"
+  ],
+  "host.os.version": [
+    "10.0"
+  ],
+  "input.type": [
+    "winlog"
+  ],
+  "log.level": [
+    "información"
+  ],
+  "message": [
+    ".NET Runtime Optimization Service (4.0.30319.0) - Installed from repository: mscorlib"
+  ],
+  "winlog.api": [
+    "wineventlog"
+  ],
+  "winlog.channel": [
+    "Application"
+  ],
+  "winlog.computer_name": [
+    "DESKTOP-PGGB831"
+  ],
+  "winlog.event_data.param1": [
+    ".NET Runtime Optimization Service (4.0.30319.0) - Installed from repository: mscorlib"
+  ],
+  "winlog.event_id": [
+    "1130"
+  ],
+  "winlog.keywords": [
+    "Clásico"
+  ],
+  "winlog.opcode": [
+    "Información"
+  ],
+  "winlog.provider_name": [
+    ".NET Runtime Optimization Service"
+  ],
+  "winlog.record_id": [
+    "9132"
+  ],
+  "winlog.task": [
+    "None"
+  ],
+  "_id": "AZRtz83v0GkNzmNbdvwE",
+  "_index": ".ds-logs-system.application-default-2025.01.16-000001",
+  "_score": null
+}
