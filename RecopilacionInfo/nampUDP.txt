@@ -1,0 +1,588 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-02-17 01:25 EST
+Stats: 0:00:33 elapsed; 0 hosts completed (80 up), 80 undergoing Service Scan
+Service scan Timing: About 0.00% done
+Nmap scan report for api-accounts.prod.catalyst.clover.com (44.240.54.96)
+Host is up.
+Other addresses for api-accounts.prod.catalyst.clover.com (not scanned): 54.213.99.117 52.43.105.79
+rDNS record for 44.240.54.96: ec2-44-240-54-96.us-west-2.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for api.catalyst.clover.com (107.162.232.80)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for api-invoca.prod.catalyst.clover.com (44.226.28.139)
+Host is up.
+Other addresses for api-invoca.prod.catalyst.clover.com (not scanned): 44.226.192.163 52.32.91.102
+rDNS record for 44.226.28.139: ec2-44-226-28-139.us-west-2.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for ar.clover.com (151.101.3.10)
+Host is up.
+Other addresses for ar.clover.com (not scanned): 151.101.131.10 151.101.195.10 151.101.67.10
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for au.clover.com (66.6.29.162)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for blog.clover.com (23.185.0.4)
+Host is up.
+Other addresses for blog.clover.com (not scanned): 2620:12a:8000::4 2620:12a:8001::4
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for careers.clover.com (23.39.223.146)
+Host is up.
+Other addresses for careers.clover.com (not scanned): 23.39.223.145
+rDNS record for 23.39.223.146: a23-39-223-146.deploy.static.akamaitechnologies.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for catalyst-acct-evt-proc.prod.catalyst.clover.com (52.37.65.225)
+Host is up.
+rDNS record for 52.37.65.225: ec2-52-37-65-225.us-west-2.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for catalyst.clover.com (107.162.183.213)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cert-int.catalyst.clover.com (107.162.232.26)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cert-self-serve-ui.catalyst.clover.com (167.86.43.39)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cld-stage-merchants.clover.com (66.22.56.145)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cld-stage-merchantservices.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cld-stage-talent.clover.com (66.22.56.35)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for community.clover.com (44.224.74.30)
+Host is up.
+Other addresses for community.clover.com (not scanned): 44.227.17.98 100.21.251.236
+rDNS record for 44.224.74.30: ec2-44-224-74-30.us-west-2.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for connect.clover.com (104.17.70.206)
+Host is up.
+Other addresses for connect.clover.com (not scanned): 104.17.71.206 104.17.74.206 104.17.72.206 104.17.73.206
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for customers.clover.com (18.215.208.23)
+Host is up.
+Other addresses for customers.clover.com (not scanned): 3.225.186.112
+rDNS record for 18.215.208.23: ec2-18-215-208-23.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for deals.clover.com (35.160.39.66)
+Host is up.
+Other addresses for deals.clover.com (not scanned): 35.161.43.60 52.32.64.133
+rDNS record for 35.160.39.66: ec2-35-160-39-66.us-west-2.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for dev-alt-int.catalyst.clover.com (167.86.43.71)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for dev-api-invoca.catalyst.clover.com (66.22.80.117)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for dev.catalyst.clover.com (107.162.180.200)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for dev-self-serve-ui.catalyst.clover.com (167.86.43.43)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for docs.clover.com (104.16.242.118)
+Host is up.
+Other addresses for docs.clover.com (not scanned): 104.16.241.118 2606:4700::6810:f276 2606:4700::6810:f176
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for feedback.staging.clover.com (52.20.49.116)
+Host is up.
+Other addresses for feedback.staging.clover.com (not scanned): 44.211.12.46
+rDNS record for 52.20.49.116: ec2-52-20-49-116.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for getcapital.clover.com (52.3.105.90)
+Host is up.
+Other addresses for getcapital.clover.com (not scanned): 44.198.151.188
+rDNS record for 52.3.105.90: ec2-52-3-105-90.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for get.clover.com (199.60.103.31)
+Host is up.
+Other addresses for get.clover.com (not scanned): 199.60.103.225 2606:2c40::c73c:671f 2606:2c40::c73c:67e1
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for go.clover.com (104.16.92.80)
+Host is up.
+Other addresses for go.clover.com (not scanned): 104.16.95.80 104.16.96.80 104.16.93.80 104.16.94.80
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for google.clover.com (142.250.217.243)
+Host is up.
+Other addresses for google.clover.com (not scanned): 2607:f8b0:4008:80d::2013
+rDNS record for 142.250.217.243: mia07s62-in-f19.1e100.net
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for help.clover.com (13.56.104.203)
+Host is up.
+rDNS record for 13.56.104.203: ec2-13-56-104-203.us-west-1.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for m.clover.com (3.233.108.250)
+Host is up.
+Other addresses for m.clover.com (not scanned): 54.157.2.211 3.233.187.46
+rDNS record for 3.233.108.250: ec2-3-233-108-250.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for otp.catalyst.clover.com (66.22.30.155)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for partnerdocs.clover.com (104.16.241.118)
+Host is up.
+Other addresses for partnerdocs.clover.com (not scanned): 104.16.242.118 2606:4700::6810:f176 2606:4700::6810:f276
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for pco.dev.clover.com (3.165.181.37)
+Host is up.
+Other addresses for pco.dev.clover.com (not scanned): 3.165.181.18 3.165.181.87 3.165.181.107 2600:9000:2735:2400:2:3c31:1580:93a1 2600:9000:2735:2c00:2:3c31:1580:93a1 2600:9000:2735:6c00:2:3c31:1580:93a1 2600:9000:2735:ea00:2:3c31:1580:93a1 2600:9000:2735:7400:2:3c31:1580:93a1 2600:9000:2735:9800:2:3c31:1580:93a1 2600:9000:2735:2600:2:3c31:1580:93a1 2600:9000:2735:7600:2:3c31:1580:93a1
+rDNS record for 3.165.181.37: server-3-165-181-37.atl59.r.cloudfront.net
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for perf-api.catalyst.clover.com (107.162.232.63)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for perf-api-rest.catalyst.clover.com (66.22.80.121)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for perf.catalyst.clover.com (107.162.232.60)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for perf-int.catalyst.clover.com (107.162.232.29)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for perf-self-serve-ui.catalyst.clover.com (167.86.43.40)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for prod-websocket.prod.catalyst.clover.com (54.214.9.120)
+Host is up.
+Other addresses for prod-websocket.prod.catalyst.clover.com (not scanned): 34.209.86.73 52.32.240.69
+rDNS record for 54.214.9.120: ec2-54-214-9-120.us-west-2.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for promos.stg1.dev.clover.com (44.211.12.46)
+Host is up.
+Other addresses for promos.stg1.dev.clover.com (not scanned): 52.20.49.116
+rDNS record for 44.211.12.46: ec2-44-211-12-46.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa-alt.catalyst.clover.com (167.86.43.68)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa-alt-int.catalyst.clover.com (167.86.43.69)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa-api-invoca.non-prod.catalyst.clover.com (52.43.17.173)
+Host is up.
+Other addresses for qa-api-invoca.non-prod.catalyst.clover.com (not scanned): 35.161.116.111 52.43.252.111
+rDNS record for 52.43.17.173: ec2-52-43-17-173.us-west-2.compute.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa.catalyst.clover.com (107.162.183.211)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa.customers.clover.com (52.201.56.69)
+Host is up.
+Other addresses for qa.customers.clover.com (not scanned): 107.21.94.65 23.21.86.188 23.20.81.81
+rDNS record for 52.201.56.69: ec2-52-201-56-69.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa-otp.catalyst.clover.com (66.22.85.187)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa-self-serve-ui.catalyst.clover.com (167.86.43.42)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for rewards.dev1.dev.clover.com (23.21.86.188)
+Host is up.
+Other addresses for rewards.dev1.dev.clover.com (not scanned): 23.20.81.81 52.201.56.69 107.21.94.65
+rDNS record for 23.21.86.188: ec2-23-21-86-188.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for sales.clover.com (151.101.131.10)
+Host is up.
+Other addresses for sales.clover.com (not scanned): 151.101.195.10 151.101.3.10 151.101.67.10
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for self-serve-ui.catalyst.clover.com (167.86.43.38)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for stage-api-invoca.catalyst.clover.com (66.22.80.122)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for stage.catalyst.clover.com (107.162.183.212)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for stage-otp.catalyst.clover.com (66.22.85.186)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for stage-self-serve-ui.catalyst.clover.com (167.86.43.41)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for status.clover.com (108.156.152.103)
+Host is up.
+Other addresses for status.clover.com (not scanned): 108.156.152.101 108.156.152.32 108.156.152.90
+rDNS record for 108.156.152.103: server-108-156-152-103.atl58.r.cloudfront.net
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for test-int.catalyst.clover.com (107.162.232.59)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.ar.clover.com (151.101.67.10)
+Host is up.
+Other addresses for www.ar.clover.com (not scanned): 151.101.3.10 151.101.131.10 151.101.195.10
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for br.clover.com (66.6.29.162)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cld-stage-partners.clover.com (66.22.56.145)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cld-stage-uk.clover.com (66.22.56.35)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for dev-int.catalyst.clover.com (107.162.180.200)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for feedback.clover.com (18.215.208.23)
+Host is up.
+Other addresses for feedback.clover.com (not scanned): 3.225.186.112
+rDNS record for 18.215.208.23: ec2-18-215-208-23.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for feedback.stg1.dev.clover.com (52.20.49.116)
+Host is up.
+Other addresses for feedback.stg1.dev.clover.com (not scanned): 44.211.12.46
+rDNS record for 52.20.49.116: ec2-52-20-49-116.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for hello.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for int.catalyst.clover.com (107.162.183.213)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for merchantservices.clover.com (151.101.3.10)
+Host is up.
+Other addresses for merchantservices.clover.com (not scanned): 151.101.67.10 151.101.195.10 151.101.131.10
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for qa-int.catalyst.clover.com (107.162.183.211)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for stage-int.catalyst.clover.com (107.162.183.212)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for staging.customers.clover.com (44.211.12.46)
+Host is up.
+Other addresses for staging.customers.clover.com (not scanned): 52.20.49.116
+rDNS record for 44.211.12.46: ec2-44-211-12-46.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for cld-stage-tap.clover.com (66.22.56.145)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for integrate.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for mex.clover.com (66.6.29.162)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for nl.clover.com (151.101.3.10)
+Host is up.
+Other addresses for nl.clover.com (not scanned): 151.101.67.10 151.101.195.10 151.101.131.10
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for rewards.staging.clover.com (52.20.49.116)
+Host is up.
+Other addresses for rewards.staging.clover.com (not scanned): 44.211.12.46
+rDNS record for 52.20.49.116: ec2-52-20-49-116.compute-1.amazonaws.com
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.catalyst.clover.com (107.162.183.213)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for merchants.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for walmartbusiness.clover.com (66.6.29.162)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for partners.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.au.clover.com (66.6.29.162)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for sport.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.br.clover.com (66.6.29.162)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for talent.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.mex.clover.com (66.6.29.162)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for tap.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for uk.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.citimerchantservicesbyfirstdata.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.sales.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Nmap scan report for www.uk.clover.com (151.101.19.10)
+Host is up.
+
+PORT    STATE         SERVICE VERSION
+161/udp open|filtered snmp
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 118 IP addresses (118 hosts up) scanned in 1554.19 seconds
