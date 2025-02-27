@@ -1,0 +1,36 @@
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 126ms][0m
+[2K| URL | https://clover.com/claim
+[2K    * FUZZ: claim
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 124ms][0m
+[2K| URL | https://clover.com/customers
+[2K    * FUZZ: customers
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 126ms][0m
+[2K| URL | https://clover.com/dashboard
+[2K    * FUZZ: dashboard
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 125ms][0m
+[2K| URL | https://clover.com/employees
+[2K    * FUZZ: employees
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 124ms][0m
+[2K| URL | https://clover.com/inventory
+[2K    * FUZZ: inventory
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 127ms][0m
+[2K| URL | https://clover.com/login
+[2K    * FUZZ: login
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 127ms][0m
+[2K| URL | https://clover.com/orders
+[2K    * FUZZ: orders
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 127ms][0m
+[2K| URL | https://clover.com/reporting
+[2K    * FUZZ: reporting
+
+[2K[33m[Status: 403, Size: 93, Words: 6, Lines: 4, Duration: 125ms][0m
+[2K| URL | https://clover.com/transactions
+[2K    * FUZZ: transactions
+
