@@ -1,0 +1,2756 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-02-26 10:23 EST
+Initiating Parallel DNS resolution of 80 hosts. at 10:24
+Completed Parallel DNS resolution of 80 hosts. at 10:24, 1.20s elapsed
+Initiating SYN Stealth Scan at 10:24
+Scanning 64 hosts [1000 ports/host]
+Discovered open port 53/tcp on 167.86.43.39
+Discovered open port 80/tcp on 167.86.43.39
+Discovered open port 80/tcp on 167.86.43.40
+Discovered open port 80/tcp on 167.86.43.42
+Discovered open port 80/tcp on 167.86.43.68
+Discovered open port 80/tcp on 66.22.80.117
+Discovered open port 80/tcp on 66.6.29.162
+Discovered open port 80/tcp on 167.86.43.43
+Discovered open port 80/tcp on 167.86.43.71
+Discovered open port 53/tcp on 66.22.80.121
+Discovered open port 53/tcp on 66.22.56.145
+Discovered open port 80/tcp on 66.22.30.155
+Discovered open port 80/tcp on 167.86.43.69
+Discovered open port 80/tcp on 66.22.80.121
+Discovered open port 80/tcp on 66.22.56.145
+Discovered open port 8080/tcp on 167.86.43.42
+Discovered open port 8080/tcp on 167.86.43.68
+Discovered open port 8080/tcp on 66.22.80.121
+Discovered open port 53/tcp on 151.101.3.10
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 53/tcp on 151.101.131.10
+Discovered open port 53/tcp on 35.241.51.22
+Discovered open port 53/tcp on 107.162.232.26
+Discovered open port 53/tcp on 34.195.212.27
+Discovered open port 53/tcp on 35.167.212.29
+Discovered open port 53/tcp on 107.162.232.29
+Discovered open port 53/tcp on 199.60.103.31
+Discovered open port 53/tcp on 34.116.0.32
+Discovered open port 80/tcp on 151.101.3.10
+Discovered open port 80/tcp on 35.241.51.22
+Discovered open port 80/tcp on 35.167.212.29
+Discovered open port 80/tcp on 107.162.232.29
+Discovered open port 80/tcp on 34.116.0.32
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 80/tcp on 107.162.232.26
+Discovered open port 80/tcp on 34.195.212.27
+Discovered open port 80/tcp on 199.60.103.31
+Discovered open port 80/tcp on 151.101.131.10
+Discovered open port 8080/tcp on 151.101.3.10
+Discovered open port 8080/tcp on 35.241.51.22
+Discovered open port 8080/tcp on 35.167.212.29
+Discovered open port 53/tcp on 66.22.30.155
+Discovered open port 53/tcp on 167.86.43.71
+Discovered open port 53/tcp on 66.22.80.117
+Discovered open port 53/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 167.86.43.39
+Discovered open port 8080/tcp on 34.116.0.32
+Discovered open port 53/tcp on 104.16.242.118
+Discovered open port 53/tcp on 34.117.211.53
+Discovered open port 8080/tcp on 66.22.80.117
+Discovered open port 80/tcp on 104.16.242.118
+Discovered open port 53/tcp on 34.235.193.186
+Discovered open port 53/tcp on 166.73.4.197
+Discovered open port 53/tcp on 167.86.43.68
+Discovered open port 80/tcp on 34.117.211.53
+Discovered open port 53/tcp on 166.73.5.41
+Discovered open port 8080/tcp on 167.86.43.43
+Discovered open port 53/tcp on 54.158.149.68
+Increasing send delay for 66.22.80.121 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 53/tcp on 52.20.49.116
+Increasing send delay for 167.86.43.39 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 53/tcp on 167.86.43.40
+Discovered open port 80/tcp on 166.73.4.197
+Increasing send delay for 66.22.80.121 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 53/tcp on 167.86.43.43
+Discovered open port 53/tcp on 107.162.232.60
+Discovered open port 8080/tcp on 167.86.43.71
+Discovered open port 53/tcp on 34.98.98.114
+Discovered open port 53/tcp on 66.22.85.187
+Discovered open port 53/tcp on 44.239.130.219
+Increasing send delay for 167.86.43.39 from 5 to 10 due to max_successful_tryno increase to 5
+Increasing send delay for 66.22.30.155 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 53/tcp on 166.73.4.196
+Discovered open port 53/tcp on 34.208.110.218
+Discovered open port 53/tcp on 3.233.108.250
+Discovered open port 80/tcp on 66.22.85.187
+Discovered open port 53/tcp on 166.73.4.194
+Discovered open port 80/tcp on 44.239.130.219
+Discovered open port 8080/tcp on 167.86.43.40
+Discovered open port 80/tcp on 166.73.5.41
+Discovered open port 53/tcp on 107.162.183.211
+Discovered open port 80/tcp on 34.98.98.114
+Discovered open port 53/tcp on 34.98.98.115
+Discovered open port 80/tcp on 52.20.49.116
+Increasing send delay for 167.86.43.43 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 53/tcp on 23.222.17.238
+Discovered open port 53/tcp on 34.36.255.254
+Discovered open port 80/tcp on 35.201.74.249
+Discovered open port 80/tcp on 3.233.108.250
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 34.195.212.27
+Discovered open port 53/tcp on 66.22.56.35
+Discovered open port 53/tcp on 23.185.0.4
+Discovered open port 53/tcp on 166.73.5.57
+Discovered open port 80/tcp on 107.162.232.60
+Discovered open port 80/tcp on 54.158.149.68
+Discovered open port 8080/tcp on 167.86.43.69
+Discovered open port 80/tcp on 34.235.193.186
+Discovered open port 53/tcp on 166.73.4.193
+Discovered open port 80/tcp on 166.73.4.196
+Discovered open port 80/tcp on 34.208.110.218
+Discovered open port 80/tcp on 23.222.17.238
+Discovered open port 80/tcp on 166.73.5.57
+Discovered open port 8080/tcp on 66.6.29.162
+Discovered open port 53/tcp on 35.162.157.209
+Discovered open port 80/tcp on 34.36.255.254
+Discovered open port 53/tcp on 166.73.5.37
+Discovered open port 53/tcp on 100.20.128.48
+Discovered open port 53/tcp on 107.162.232.80
+Discovered open port 53/tcp on 166.73.4.195
+Discovered open port 53/tcp on 104.17.73.206
+Discovered open port 80/tcp on 66.22.56.35
+Discovered open port 53/tcp on 166.73.5.53
+Discovered open port 80/tcp on 166.73.4.193
+Discovered open port 80/tcp on 107.162.183.211
+Discovered open port 53/tcp on 54.201.176.250
+Increasing send delay for 66.6.29.162 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 8080/tcp on 199.60.103.31
+Discovered open port 80/tcp on 166.73.5.37
+Discovered open port 53/tcp on 34.117.18.56
+Discovered open port 53/tcp on 107.162.232.63
+Discovered open port 80/tcp on 104.17.73.206
+Increasing send delay for 167.86.43.68 from 0 to 5 due to 11 out of 15 dropped probes since last increase.
+Discovered open port 53/tcp on 107.162.183.213
+Discovered open port 80/tcp on 100.20.128.48
+Discovered open port 8080/tcp on 34.117.211.53
+Discovered open port 80/tcp on 107.162.232.80
+Discovered open port 80/tcp on 34.98.98.115
+Discovered open port 8080/tcp on 66.22.56.145
+Discovered open port 80/tcp on 166.73.4.195
+Increasing send delay for 66.22.80.117 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 80/tcp on 54.201.176.250
+Discovered open port 53/tcp on 34.116.0.40
+Discovered open port 80/tcp on 166.73.5.53
+Discovered open port 80/tcp on 107.162.232.63
+Discovered open port 53/tcp on 66.6.17.188
+Discovered open port 80/tcp on 166.73.4.194
+Discovered open port 80/tcp on 23.185.0.4
+Discovered open port 53/tcp on 167.86.43.69
+Discovered open port 80/tcp on 35.162.157.209
+Discovered open port 8080/tcp on 66.22.30.155
+Discovered open port 53/tcp on 13.56.104.203
+Discovered open port 80/tcp on 66.6.17.188
+Increasing send delay for 66.22.80.117 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 80/tcp on 107.162.183.213
+Discovered open port 80/tcp on 13.56.104.203
+Discovered open port 53/tcp on 3.229.73.76
+Discovered open port 8080/tcp on 151.101.131.10
+Discovered open port 8080/tcp on 107.162.232.60
+Discovered open port 8080/tcp on 35.201.74.249
+Discovered open port 80/tcp on 34.116.0.40
+Increasing send delay for 66.6.29.162 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 8080/tcp on 166.73.4.193
+Discovered open port 8080/tcp on 66.22.85.187
+Increasing send delay for 66.6.29.162 from 10 to 20 due to max_successful_tryno increase to 6
+Discovered open port 8080/tcp on 166.73.4.197
+Discovered open port 8080/tcp on 104.17.73.206
+Discovered open port 8080/tcp on 34.235.193.186
+Discovered open port 8080/tcp on 66.6.17.188
+Discovered open port 8080/tcp on 166.73.4.194
+Discovered open port 53/tcp on 107.162.180.200
+Discovered open port 8080/tcp on 34.208.110.218
+Discovered open port 80/tcp on 107.162.180.200
+Increasing send delay for 66.22.56.145 from 0 to 5 due to max_successful_tryno increase to 4
+SYN Stealth Scan Timing: About 1.23% done; ETC: 11:06 (0:41:33 remaining)
+Discovered open port 53/tcp on 100.20.32.41
+Discovered open port 53/tcp on 142.251.41.51
+Discovered open port 80/tcp on 34.117.18.56
+Discovered open port 8080/tcp on 104.16.242.118
+Discovered open port 8080/tcp on 54.201.176.250
+Discovered open port 8080/tcp on 34.36.255.254
+Discovered open port 8080/tcp on 166.73.4.195
+Discovered open port 8080/tcp on 52.20.49.116
+Increasing send delay for 66.22.30.155 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 8080/tcp on 107.162.183.213
+Discovered open port 8080/tcp on 166.73.4.196
+Discovered open port 8080/tcp on 107.162.183.211
+Discovered open port 8080/tcp on 3.233.108.250
+Discovered open port 80/tcp on 142.251.41.51
+Discovered open port 80/tcp on 3.229.73.76
+Discovered open port 8080/tcp on 34.98.98.114
+Discovered open port 8080/tcp on 107.162.232.26
+Discovered open port 8080/tcp on 54.158.149.68
+Discovered open port 8080/tcp on 35.162.157.209
+Increasing send delay for 66.22.80.121 from 10 to 20 due to 11 out of 14 dropped probes since last increase.
+Discovered open port 443/tcp on 66.22.80.121
+Discovered open port 8080/tcp on 107.162.180.200
+Increasing send delay for 66.6.17.188 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 8080/tcp on 34.98.98.115
+Discovered open port 8080/tcp on 23.185.0.4
+Discovered open port 8080/tcp on 166.73.5.57
+Increasing send delay for 66.22.56.145 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 8080/tcp on 23.222.17.238
+Discovered open port 443/tcp on 151.101.3.10
+Discovered open port 8080/tcp on 166.73.5.41
+Discovered open port 8080/tcp on 13.56.104.203
+Discovered open port 8080/tcp on 107.162.232.29
+Discovered open port 80/tcp on 100.20.32.41
+Increasing send delay for 167.86.43.40 from 0 to 5 due to 11 out of 16 dropped probes since last increase.
+Discovered open port 8080/tcp on 44.239.130.219
+Discovered open port 8080/tcp on 166.73.5.53
+Discovered open port 8080/tcp on 107.162.232.63
+Increasing send delay for 167.86.43.71 from 0 to 5 due to 11 out of 20 dropped probes since last increase.
+Discovered open port 53/tcp on 167.86.43.42
+Discovered open port 8080/tcp on 100.20.128.48
+Increasing send delay for 167.86.43.42 from 0 to 5 due to max_successful_tryno increase to 4
+Increasing send delay for 167.86.43.42 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 8080/tcp on 3.229.73.76
+Discovered open port 8080/tcp on 142.251.41.51
+Discovered open port 8080/tcp on 66.22.56.35
+Discovered open port 443/tcp on 104.16.242.118
+Increasing send delay for 66.22.85.187 from 0 to 5 due to 11 out of 20 dropped probes since last increase.
+Discovered open port 443/tcp on 167.86.43.68
+Increasing send delay for 66.6.17.188 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 35.201.74.249
+Discovered open port 443/tcp on 35.167.212.29
+Discovered open port 8080/tcp on 34.116.0.40
+SYN Stealth Scan Timing: About 2.13% done; ETC: 11:11 (0:46:38 remaining)
+Increasing send delay for 167.86.43.69 from 0 to 5 due to 11 out of 24 dropped probes since last increase.
+Discovered open port 443/tcp on 35.241.51.22
+Discovered open port 8080/tcp on 100.20.32.41
+Discovered open port 8080/tcp on 107.162.232.80
+Increasing send delay for 167.86.43.68 from 5 to 10 due to max_successful_tryno increase to 4
+Discovered open port 443/tcp on 34.116.0.32
+Increasing send delay for 66.22.56.145 from 10 to 20 due to max_successful_tryno increase to 6
+Discovered open port 443/tcp on 151.101.127.10
+Discovered open port 443/tcp on 167.86.43.43
+Increasing send delay for 167.86.43.43 from 5 to 10 due to 11 out of 19 dropped probes since last increase.
+Discovered open port 443/tcp on 167.86.43.39
+Discovered open port 443/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 166.73.5.37
+Discovered open port 443/tcp on 166.73.4.193
+Discovered open port 443/tcp on 107.162.232.60
+Discovered open port 443/tcp on 66.22.80.117
+Discovered open port 443/tcp on 167.86.43.71
+Discovered open port 8080/tcp on 34.117.18.56
+Discovered open port 443/tcp on 107.162.183.213
+Discovered open port 443/tcp on 166.73.5.57
+Increasing send delay for 66.22.80.117 from 10 to 20 due to 11 out of 20 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 0 to 5 due to 11 out of 18 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 66.22.56.35 from 10 to 20 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 167.86.43.40
+Discovered open port 443/tcp on 167.86.43.42
+Discovered open port 443/tcp on 34.235.193.186
+Discovered open port 443/tcp on 35.162.157.209
+Discovered open port 443/tcp on 34.195.212.27
+Discovered open port 443/tcp on 34.98.98.115
+Discovered open port 443/tcp on 34.208.110.218
+Discovered open port 443/tcp on 166.73.5.53
+Discovered open port 443/tcp on 66.22.85.187
+Discovered open port 443/tcp on 166.73.4.196
+Increasing send delay for 167.86.43.71 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 167.86.43.71 from 10 to 20 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 66.22.30.155
+Discovered open port 443/tcp on 166.73.4.195
+Discovered open port 443/tcp on 54.201.176.250
+Discovered open port 443/tcp on 167.86.43.69
+Discovered open port 443/tcp on 166.73.4.194
+Discovered open port 443/tcp on 34.117.211.53
+Increasing send delay for 167.86.43.71 from 20 to 40 due to max_successful_tryno increase to 6
+Discovered open port 443/tcp on 66.6.17.188
+Increasing send delay for 167.86.43.39 from 10 to 20 due to 11 out of 23 dropped probes since last increase.
+Discovered open port 443/tcp on 107.162.180.200
+Discovered open port 443/tcp on 23.222.17.238
+Increasing send delay for 167.86.43.71 from 40 to 80 due to max_successful_tryno increase to 7
+Discovered open port 443/tcp on 107.162.183.211
+Discovered open port 443/tcp on 34.98.98.114
+Discovered open port 443/tcp on 107.162.232.63
+Increasing send delay for 66.22.80.121 from 20 to 40 due to 11 out of 19 dropped probes since last increase.
+Discovered open port 443/tcp on 66.22.56.145
+Increasing send delay for 66.22.30.155 from 10 to 20 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.22.85.187 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 66.22.85.187 from 10 to 20 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 166.73.5.41
+Discovered open port 443/tcp on 34.36.255.254
+Increasing send delay for 66.6.29.162 from 20 to 40 due to 11 out of 18 dropped probes since last increase.
+Discovered open port 443/tcp on 199.60.103.31
+Increasing send delay for 167.86.43.40 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 167.86.43.42 from 10 to 20 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 167.86.43.40 from 10 to 20 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 166.73.4.197
+Discovered open port 443/tcp on 107.162.232.29
+Discovered open port 443/tcp on 23.185.0.4
+Discovered open port 443/tcp on 66.22.56.35
+Discovered open port 443/tcp on 13.56.104.203
+Discovered open port 443/tcp on 107.162.232.26
+Discovered open port 443/tcp on 54.158.149.68
+Discovered open port 443/tcp on 52.20.49.116
+Discovered open port 443/tcp on 100.20.128.48
+Increasing send delay for 66.22.56.35 from 20 to 40 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 167.86.43.43 from 10 to 20 due to max_successful_tryno increase to 5
+Increasing send delay for 167.86.43.68 from 10 to 20 due to max_successful_tryno increase to 5
+Increasing send delay for 167.86.43.68 from 20 to 40 due to max_successful_tryno increase to 6
+Discovered open port 443/tcp on 142.251.41.51
+Increasing send delay for 167.86.43.68 from 40 to 80 due to max_successful_tryno increase to 7
+Increasing send delay for 66.6.17.188 from 10 to 20 due to 11 out of 15 dropped probes since last increase.
+Discovered open port 443/tcp on 3.233.108.250
+Discovered open port 443/tcp on 100.20.32.41
+Discovered open port 443/tcp on 34.117.18.56
+Discovered open port 443/tcp on 151.101.131.10
+Discovered open port 443/tcp on 104.17.73.206
+Increasing send delay for 66.22.56.145 from 20 to 40 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 66.22.80.117 from 20 to 40 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.80.121 from 40 to 80 due to max_successful_tryno increase to 6
+Increasing send delay for 167.86.43.71 from 80 to 160 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 66.22.30.155 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 167.86.43.69 from 5 to 10 due to 11 out of 18 dropped probes since last increase.
+Discovered open port 443/tcp on 34.116.0.40
+Discovered open port 443/tcp on 3.229.73.76
+Increasing send delay for 66.22.85.187 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.29.162 from 40 to 80 due to 11 out of 16 dropped probes since last increase.
+Discovered open port 443/tcp on 166.73.5.37
+Increasing send delay for 167.86.43.42 from 20 to 40 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.6.17.188 from 20 to 40 due to 11 out of 17 dropped probes since last increase.
+Discovered open port 443/tcp on 44.239.130.219
+Increasing send delay for 66.22.30.155 from 40 to 80 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.39 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 167.86.43.39 from 40 to 80 due to max_successful_tryno increase to 7
+Increasing send delay for 66.22.80.121 from 80 to 160 due to max_successful_tryno increase to 7
+Increasing send delay for 66.22.30.155 from 80 to 160 due to max_successful_tryno increase to 7
+Increasing send delay for 66.6.29.162 from 80 to 160 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 167.86.43.43 from 20 to 40 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 167.86.43.69 from 10 to 20 due to max_successful_tryno increase to 4
+Increasing send delay for 66.22.56.145 from 40 to 80 due to 11 out of 16 dropped probes since last increase.
+Discovered open port 443/tcp on 107.162.232.80
+Increasing send delay for 167.86.43.69 from 20 to 40 due to max_successful_tryno increase to 5
+Increasing send delay for 167.86.43.69 from 40 to 80 due to max_successful_tryno increase to 6
+Increasing send delay for 66.22.80.117 from 40 to 80 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 167.86.43.69 from 80 to 160 due to max_successful_tryno increase to 7
+Increasing send delay for 167.86.43.71 from 160 to 320 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 167.86.43.71 from 320 to 640 due to max_successful_tryno increase to 8
+Increasing send delay for 66.6.17.188 from 40 to 80 due to max_successful_tryno increase to 6
+SYN Stealth Scan Timing: About 5.21% done; ETC: 11:10 (0:44:00 remaining)
+Increasing send delay for 167.86.43.68 from 80 to 160 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 167.86.43.40 from 20 to 40 due to 11 out of 18 dropped probes since last increase.
+Increasing send delay for 66.22.80.121 from 160 to 320 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 80 to 160 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 40 to 80 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 167.86.43.39 from 80 to 160 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.22.30.155 from 160 to 320 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 167.86.43.69 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 167.86.43.42 from 40 to 80 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 167.86.43.43 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 66.22.85.187 from 40 to 80 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 160 to 320 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.40 from 40 to 80 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 167.86.43.68 from 160 to 320 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 160 to 320 due to max_successful_tryno increase to 7
+Increasing send delay for 66.6.17.188 from 80 to 160 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 320 to 640 due to max_successful_tryno increase to 8
+Increasing send delay for 66.22.85.187 from 80 to 160 due to max_successful_tryno increase to 7
+Increasing send delay for 66.22.85.187 from 160 to 320 due to max_successful_tryno increase to 8
+Increasing send delay for 66.22.80.117 from 80 to 160 due to 11 out of 17 dropped probes since last increase.
+SYN Stealth Scan Timing: About 6.62% done; ETC: 11:08 (0:41:08 remaining)
+Increasing send delay for 167.86.43.69 from 320 to 640 due to max_successful_tryno increase to 8
+Increasing send delay for 66.22.30.155 from 320 to 640 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 80 to 160 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 167.86.43.42 from 80 to 160 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.43 from 80 to 160 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.6.17.188 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 167.86.43.71 from 640 to 1000 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.80.121 from 320 to 640 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 320 to 640 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 167.86.43.39 from 160 to 320 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.80.117 from 160 to 320 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.40 from 80 to 160 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 167.86.43.68 from 320 to 640 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 167.86.43.42 from 160 to 320 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 66.22.85.187 from 320 to 640 due to 11 out of 15 dropped probes since last increase.
+SYN Stealth Scan Timing: About 8.35% done; ETC: 11:05 (0:37:30 remaining)
+Increasing send delay for 66.22.56.145 from 640 to 1000 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.40 from 160 to 320 due to max_successful_tryno increase to 6
+Increasing send delay for 167.86.43.43 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 167.86.43.40 from 320 to 640 due to max_successful_tryno increase to 7
+Increasing send delay for 167.86.43.40 from 640 to 1000 due to max_successful_tryno increase to 8
+Increasing send delay for 66.22.56.35 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.6.17.188 from 320 to 640 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.69 from 640 to 1000 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 640 to 1000 due to max_successful_tryno increase to 7
+Increasing send delay for 66.22.30.155 from 640 to 1000 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.80.121 from 640 to 1000 due to max_successful_tryno increase to 8
+Increasing send delay for 167.86.43.39 from 320 to 640 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 320 to 640 due to max_successful_tryno increase to 6
+Increasing send delay for 66.22.80.117 from 320 to 640 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 640 to 1000 due to max_successful_tryno increase to 7
+Increasing send delay for 167.86.43.68 from 640 to 1000 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 167.86.43.43 from 320 to 640 due to 11 out of 13 dropped probes since last increase.
+SYN Stealth Scan Timing: About 10.46% done; ETC: 11:01 (0:33:32 remaining)
+Increasing send delay for 167.86.43.42 from 320 to 640 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.22.85.187 from 640 to 1000 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.42 from 640 to 1000 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.17.188 from 640 to 1000 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 167.86.43.39 from 640 to 1000 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.43 from 640 to 1000 due to 11 out of 13 dropped probes since last increase.
+SYN Stealth Scan Timing: About 12.87% done; ETC: 10:58 (0:29:55 remaining)
+Increasing send delay for 66.22.80.117 from 640 to 1000 due to 11 out of 14 dropped probes since last increase.
+SYN Stealth Scan Timing: About 15.61% done; ETC: 10:55 (0:26:34 remaining)
+SYN Stealth Scan Timing: About 19.36% done; ETC: 10:52 (0:22:34 remaining)
+SYN Stealth Scan Timing: About 23.42% done; ETC: 10:49 (0:19:21 remaining)
+Warning: 66.6.29.162 giving up on port because retransmission cap hit (10).
+SYN Stealth Scan Timing: About 27.16% done; ETC: 10:47 (0:17:12 remaining)
+Discovered open port 5060/tcp on 34.235.193.186
+Discovered open port 5060/tcp on 166.73.4.193
+SYN Stealth Scan Timing: About 31.28% done; ETC: 10:46 (0:15:12 remaining)
+Discovered open port 5060/tcp on 3.229.73.76
+Discovered open port 5060/tcp on 100.20.128.48
+SYN Stealth Scan Timing: About 34.87% done; ETC: 10:45 (0:13:51 remaining)
+Discovered open port 912/tcp on 166.73.4.193
+SYN Stealth Scan Timing: About 38.80% done; ETC: 10:44 (0:12:39 remaining)
+Discovered open port 5060/tcp on 104.16.242.118
+SYN Stealth Scan Timing: About 43.09% done; ETC: 10:43 (0:11:15 remaining)
+Discovered open port 5060/tcp on 166.73.5.37
+Completed SYN Stealth Scan against 34.235.193.186 in 513.42s (63 hosts left)
+Discovered open port 5060/tcp on 54.158.149.68
+Discovered open port 5060/tcp on 100.20.32.41
+Discovered open port 5060/tcp on 166.73.5.41
+Discovered open port 5060/tcp on 166.73.4.196
+Completed SYN Stealth Scan against 166.73.4.193 in 534.12s (62 hosts left)
+Warning: 66.22.80.117 giving up on port because retransmission cap hit (10).
+SYN Stealth Scan Timing: About 47.73% done; ETC: 10:42 (0:09:52 remaining)
+Discovered open port 5060/tcp on 34.98.98.115
+Discovered open port 5060/tcp on 166.73.4.194
+Discovered open port 5060/tcp on 34.116.0.40
+Discovered open port 5060/tcp on 34.117.211.53
+Warning: 66.6.17.188 giving up on port because retransmission cap hit (10).
+Discovered open port 5060/tcp on 166.73.4.197
+SYN Stealth Scan Timing: About 52.18% done; ETC: 10:42 (0:08:43 remaining)
+Completed SYN Stealth Scan against 3.229.73.76 in 570.36s (61 hosts left)
+Discovered open port 5060/tcp on 107.162.183.213
+Discovered open port 5060/tcp on 104.17.73.206
+Warning: 167.86.43.42 giving up on port because retransmission cap hit (10).
+Discovered open port 5060/tcp on 13.56.104.203
+Discovered open port 5060/tcp on 35.201.74.249
+Warning: 167.86.43.71 giving up on port because retransmission cap hit (10).
+Completed SYN Stealth Scan against 100.20.128.48 in 575.96s (60 hosts left)
+Discovered open port 5060/tcp on 151.101.3.10
+Discovered open port 5060/tcp on 107.162.183.211
+Discovered open port 5060/tcp on 142.251.41.51
+Discovered open port 5060/tcp on 35.241.51.22
+Discovered open port 5060/tcp on 23.185.0.4
+Discovered open port 5060/tcp on 107.162.232.60
+Discovered open port 5060/tcp on 107.162.180.200
+Discovered open port 5060/tcp on 34.208.110.218
+Discovered open port 5060/tcp on 107.162.232.80
+Discovered open port 5060/tcp on 35.162.157.209
+Discovered open port 5060/tcp on 166.73.4.195
+Discovered open port 5060/tcp on 52.20.49.116
+Discovered open port 5060/tcp on 107.162.232.63
+Discovered open port 5060/tcp on 107.162.232.26
+Discovered open port 5060/tcp on 151.101.131.10
+Discovered open port 5060/tcp on 3.233.108.250
+Discovered open port 5060/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 35.167.212.29
+SYN Stealth Scan Timing: About 58.09% done; ETC: 10:41 (0:07:14 remaining)
+Discovered open port 5060/tcp on 34.36.255.254
+Discovered open port 5060/tcp on 199.60.103.31
+Discovered open port 5060/tcp on 107.162.232.29
+Discovered open port 5060/tcp on 54.201.176.250
+Discovered open port 5060/tcp on 23.222.17.238
+Discovered open port 5060/tcp on 34.195.212.27
+Discovered open port 5060/tcp on 34.116.0.32
+Discovered open port 5060/tcp on 44.239.130.219
+Discovered open port 5060/tcp on 166.73.5.57
+Completed SYN Stealth Scan against 166.73.4.194 in 618.15s (59 hosts left)
+Discovered open port 5060/tcp on 34.117.18.56
+SYN Stealth Scan Timing: About 62.83% done; ETC: 10:40 (0:06:13 remaining)
+Completed SYN Stealth Scan against 166.73.5.37 in 640.74s (58 hosts left)
+Completed SYN Stealth Scan against 104.16.242.118 in 647.78s (57 hosts left)
+Discovered open port 5060/tcp on 166.73.5.53
+Completed SYN Stealth Scan against 54.158.149.68 in 653.26s (56 hosts left)
+SYN Stealth Scan Timing: About 67.50% done; ETC: 10:40 (0:05:20 remaining)
+Discovered open port 5060/tcp on 34.98.98.114
+Completed SYN Stealth Scan against 166.73.5.41 in 669.68s (55 hosts left)
+Completed SYN Stealth Scan against 100.20.32.41 in 670.12s (54 hosts left)
+Warning: 66.22.56.145 giving up on port because retransmission cap hit (10).
+Completed SYN Stealth Scan against 142.251.41.51 in 679.32s (53 hosts left)
+Completed SYN Stealth Scan against 34.116.0.40 in 686.02s (52 hosts left)
+Completed SYN Stealth Scan against 166.73.4.195 in 686.39s (51 hosts left)
+Completed SYN Stealth Scan against 107.162.232.80 in 693.51s (50 hosts left)
+SYN Stealth Scan Timing: About 72.32% done; ETC: 10:40 (0:04:28 remaining)
+Completed SYN Stealth Scan against 166.73.4.196 in 700.38s (49 hosts left)
+Completed SYN Stealth Scan against 166.73.4.197 in 711.21s (48 hosts left)
+Completed SYN Stealth Scan against 107.162.180.200 in 727.65s (47 hosts left)
+SYN Stealth Scan Timing: About 77.08% done; ETC: 10:39 (0:03:38 remaining)
+Completed SYN Stealth Scan against 13.56.104.203 in 736.19s (46 hosts left)
+Completed SYN Stealth Scan against 166.73.5.53 in 738.36s (45 hosts left)
+Completed SYN Stealth Scan against 104.17.73.206 in 738.99s (44 hosts left)
+Completed SYN Stealth Scan against 107.162.183.211 in 742.11s (43 hosts left)
+Completed SYN Stealth Scan against 107.162.183.213 in 742.75s (42 hosts left)
+Completed SYN Stealth Scan against 35.162.157.209 in 743.99s (41 hosts left)
+Completed SYN Stealth Scan against 34.208.110.218 in 748.90s (40 hosts left)
+Completed SYN Stealth Scan against 34.117.211.53 in 749.24s (39 hosts left)
+Completed SYN Stealth Scan against 34.98.98.114 in 751.32s (38 hosts left)
+Completed SYN Stealth Scan against 34.98.98.115 in 753.66s (37 hosts left)
+Completed SYN Stealth Scan against 35.201.74.249 in 757.29s (36 hosts left)
+Completed SYN Stealth Scan against 44.239.130.219 in 757.50s (35 hosts left)
+Completed SYN Stealth Scan against 23.185.0.4 in 757.86s (34 hosts left)
+Completed SYN Stealth Scan against 3.233.108.250 in 758.37s (33 hosts left)
+Completed SYN Stealth Scan against 52.20.49.116 in 763.49s (32 hosts left)
+Completed SYN Stealth Scan against 151.101.3.10 in 764.46s (31 hosts left)
+Completed SYN Stealth Scan against 23.222.17.238 in 764.90s (30 hosts left)
+Completed SYN Stealth Scan against 107.162.232.63 in 765.10s (29 hosts left)
+Completed SYN Stealth Scan against 35.241.51.22 in 765.97s (28 hosts left)
+Completed SYN Stealth Scan against 151.101.131.10 in 766.18s (27 hosts left)
+Completed SYN Stealth Scan against 166.73.5.57 in 766.63s (26 hosts left)
+Completed SYN Stealth Scan against 54.201.176.250 in 766.72s (25 hosts left)
+Completed SYN Stealth Scan against 34.117.18.56 in 766.73s (24 hosts left)
+Completed SYN Stealth Scan against 34.36.255.254 in 768.14s (23 hosts left)
+Completed SYN Stealth Scan against 107.162.232.60 in 768.53s (22 hosts left)
+Completed SYN Stealth Scan against 107.162.232.26 in 768.71s (21 hosts left)
+Completed SYN Stealth Scan against 151.101.127.10 in 769.04s (20 hosts left)
+Completed SYN Stealth Scan against 34.195.212.27 in 770.86s (19 hosts left)
+Completed SYN Stealth Scan against 35.167.212.29 in 772.07s (18 hosts left)
+Completed SYN Stealth Scan against 107.162.232.29 in 772.70s (17 hosts left)
+Completed SYN Stealth Scan against 199.60.103.31 in 773.13s (16 hosts left)
+Completed SYN Stealth Scan against 34.116.0.32 in 773.35s (15 hosts left)
+SYN Stealth Scan Timing: About 82.02% done; ETC: 10:39 (0:02:50 remaining)
+SYN Stealth Scan Timing: About 86.02% done; ETC: 10:42 (0:02:34 remaining)
+SYN Stealth Scan Timing: About 89.67% done; ETC: 10:44 (0:02:07 remaining)
+Discovered open port 5060/tcp on 167.86.43.39
+Discovered open port 5060/tcp on 167.86.43.43
+Discovered open port 5060/tcp on 167.86.43.40
+Discovered open port 5060/tcp on 167.86.43.42
+Discovered open port 5060/tcp on 66.22.56.35
+Discovered open port 5060/tcp on 66.22.80.117
+Discovered open port 5060/tcp on 167.86.43.69
+Discovered open port 5060/tcp on 66.6.17.188
+Discovered open port 5060/tcp on 167.86.43.68
+Discovered open port 5060/tcp on 66.22.80.121
+Discovered open port 5060/tcp on 66.22.30.155
+Discovered open port 5060/tcp on 66.22.56.145
+Discovered open port 5060/tcp on 167.86.43.71
+Discovered open port 5060/tcp on 66.6.29.162
+Discovered open port 5060/tcp on 66.22.85.187
+SYN Stealth Scan Timing: About 92.50% done; ETC: 10:46 (0:01:40 remaining)
+Warning: 66.22.85.187 giving up on port because retransmission cap hit (10).
+SYN Stealth Scan Timing: About 94.82% done; ETC: 10:47 (0:01:13 remaining)
+SYN Stealth Scan Timing: About 96.57% done; ETC: 10:48 (0:00:50 remaining)
+SYN Stealth Scan Timing: About 97.76% done; ETC: 10:48 (0:00:33 remaining)
+Completed SYN Stealth Scan against 167.86.43.39 in 1578.93s (14 hosts left)
+Completed SYN Stealth Scan against 167.86.43.40 in 1581.93s (13 hosts left)
+Completed SYN Stealth Scan against 167.86.43.43 in 1583.93s (12 hosts left)
+Completed SYN Stealth Scan against 167.86.43.42 in 1584.25s (11 hosts left)
+Completed SYN Stealth Scan against 66.22.56.35 in 1586.36s (10 hosts left)
+Completed SYN Stealth Scan against 167.86.43.69 in 1594.82s (9 hosts left)
+Completed SYN Stealth Scan against 66.22.80.117 in 1596.07s (8 hosts left)
+Completed SYN Stealth Scan against 167.86.43.68 in 1596.36s (7 hosts left)
+Completed SYN Stealth Scan against 66.6.17.188 in 1596.98s (6 hosts left)
+Completed SYN Stealth Scan against 66.22.80.121 in 1601.11s (5 hosts left)
+Completed SYN Stealth Scan against 66.22.30.155 in 1601.11s (4 hosts left)
+Completed SYN Stealth Scan against 66.22.56.145 in 1605.82s (3 hosts left)
+Completed SYN Stealth Scan against 66.6.29.162 in 1606.10s (2 hosts left)
+Completed SYN Stealth Scan against 167.86.43.71 in 1610.10s (1 host left)
+Completed SYN Stealth Scan at 10:50, 1612.83s elapsed (64000 total ports)
+Nmap scan report for careers.clover.com (23.222.17.238)
+Host is up, received user-set (0.10s latency).
+Other addresses for careers.clover.com (not scanned): 23.222.17.237
+rDNS record for 23.222.17.238: a23-222-17-238.deploy.static.akamaitechnologies.com
+Scanned at 2025-02-26 10:24:07 EST for 763s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for checkout.clover.com (35.241.51.22)
+Host is up, received user-set (0.10s latency).
+rDNS record for 35.241.51.22: 22.51.241.35.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:06 EST for 765s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for clover.com (166.73.4.193)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 533s
+Not shown: 994 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+912/tcp  open  apex-mesh  syn-ack ttl 122
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cld-stage-merchantservices.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:06 EST for 769s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for api.clover.com (166.73.4.194)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 617s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for api.staging.clover.com (34.98.98.114)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.98.98.114: 114.98.98.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:07 EST for 750s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for c.clover.com (166.73.4.195)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 685s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for api-invoca.prod.catalyst.clover.com (35.162.157.209)
+Host is up, received user-set (0.10s latency).
+Other addresses for api-invoca.prod.catalyst.clover.com (not scanned): 34.209.202.60 44.238.35.154
+rDNS record for 35.162.157.209: ec2-35-162-157-209.us-west-2.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 742s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cld-stage-partners.clover.com (66.22.56.145)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1604s
+Not shown: 982 closed tcp ports (reset)
+PORT      STATE    SERVICE    REASON
+20/tcp    filtered ftp-data   no-response
+21/tcp    filtered ftp        no-response
+22/tcp    filtered ssh        no-response
+25/tcp    filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain     syn-ack ttl 64
+80/tcp    open     http       syn-ack ttl 64
+161/tcp   filtered snmp       no-response
+179/tcp   filtered bgp        no-response
+443/tcp   open     https      syn-ack ttl 64
+1007/tcp  filtered unknown    no-response
+1010/tcp  filtered surf       no-response
+5060/tcp  open     sip        syn-ack ttl 64
+8080/tcp  open     http-proxy syn-ack ttl 64
+8088/tcp  filtered radan-http no-response
+8652/tcp  filtered unknown    no-response
+8873/tcp  filtered dxspider   no-response
+20000/tcp filtered dnp        no-response
+49160/tcp filtered unknown    no-response
+
+Nmap scan report for ar.clover.com (151.101.3.10)
+Host is up, received user-set (0.10s latency).
+Other addresses for ar.clover.com (not scanned): 151.101.67.10 151.101.131.10 151.101.195.10
+Scanned at 2025-02-26 10:24:06 EST for 764s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for api.la.clover.com (166.73.5.37)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 639s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for api.eu.clover.com (166.73.5.53)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 737s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for catalyst-acct-evt-proc.prod.catalyst.clover.com (54.201.176.250)
+Host is up, received user-set (0.10s latency).
+rDNS record for 54.201.176.250: ec2-54-201-176-250.us-west-2.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 765s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cld-stage-uk.clover.com (66.22.56.35)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1585s
+Not shown: 989 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Nmap scan report for catalyst.clover.com (107.162.183.213)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 741s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cert-int.catalyst.clover.com (107.162.232.26)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:06 EST for 768s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for api.ap.clover.com (34.116.0.32)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.116.0.32: 32.0.116.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:06 EST for 773s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for dev-alt-int.catalyst.clover.com (167.86.43.71)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1609s
+Not shown: 988 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+8652/tcp filtered unknown    no-response
+
+Nmap scan report for dev-self-serve-ui.catalyst.clover.com (167.86.43.43)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1582s
+Not shown: 987 closed tcp ports (reset)
+PORT      STATE    SERVICE    REASON
+20/tcp    filtered ftp-data   no-response
+21/tcp    filtered ftp        no-response
+22/tcp    filtered ssh        no-response
+23/tcp    filtered telnet     no-response
+25/tcp    filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain     syn-ack ttl 64
+80/tcp    open     http       syn-ack ttl 64
+161/tcp   filtered snmp       no-response
+179/tcp   filtered bgp        no-response
+443/tcp   open     https      syn-ack ttl 64
+5060/tcp  open     sip        syn-ack ttl 64
+8080/tcp  open     http-proxy syn-ack ttl 64
+32783/tcp filtered unknown    no-response
+
+Nmap scan report for c.staging.clover.com (34.98.98.115)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.98.98.115: 115.98.98.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:07 EST for 752s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for eu.clover.com (166.73.5.57)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 765s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for dev-int.catalyst.clover.com (107.162.180.200)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 726s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for blog.clover.com (23.185.0.4)
+Host is up, received user-set (0.10s latency).
+Other addresses for blog.clover.com (not scanned): 2620:12a:8000::4 2620:12a:8001::4
+Scanned at 2025-02-26 10:24:07 EST for 756s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for au.clover.com (66.6.29.162)
+Host is up, received user-set (0.13s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1605s
+Not shown: 983 closed tcp ports (reset)
+PORT     STATE    SERVICE        REASON
+20/tcp   filtered ftp-data       no-response
+21/tcp   filtered ftp            no-response
+22/tcp   filtered ssh            no-response
+25/tcp   filtered smtp           port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain         syn-ack ttl 64
+80/tcp   open     http           syn-ack ttl 64
+161/tcp  filtered snmp           no-response
+179/tcp  filtered bgp            no-response
+443/tcp  open     https          syn-ack ttl 64
+1010/tcp filtered surf           no-response
+4279/tcp filtered vrml-multi-use no-response
+4343/tcp filtered unicall        no-response
+5060/tcp open     sip            syn-ack ttl 64
+5414/tcp filtered statusd        no-response
+6002/tcp filtered X11:2          no-response
+8080/tcp open     http-proxy     syn-ack ttl 64
+8099/tcp filtered unknown        no-response
+
+Nmap scan report for files.clover.com (166.73.4.197)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 710s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for community.clover.com (100.20.128.48)
+Host is up, received user-set (0.10s latency).
+Other addresses for community.clover.com (not scanned): 52.33.224.242 44.224.74.30
+rDNS record for 100.20.128.48: ec2-100-20-128-48.us-west-2.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 574s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for google.clover.com (142.251.41.51)
+Host is up, received user-set (0.10s latency).
+Other addresses for google.clover.com (not scanned): 2607:f8b0:400b:804::2013
+rDNS record for 142.251.41.51: yyz12s08-in-f19.1e100.net
+Scanned at 2025-02-26 10:24:07 EST for 678s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for docs.clover.com (104.16.242.118)
+Host is up, received user-set (0.10s latency).
+Other addresses for docs.clover.com (not scanned): 104.16.241.118 2606:4700::6810:f176 2606:4700::6810:f276
+Scanned at 2025-02-26 10:24:07 EST for 646s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for help.clover.com (13.56.104.203)
+Host is up, received user-set (0.10s latency).
+rDNS record for 13.56.104.203: ec2-13-56-104-203.us-west-1.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 735s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for feedback.clover.com (54.158.149.68)
+Host is up, received user-set (0.10s latency).
+Other addresses for feedback.clover.com (not scanned): 52.7.186.153
+rDNS record for 54.158.149.68: ec2-54-158-149-68.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 652s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for la.clover.com (166.73.5.41)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 668s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for deals.clover.com (34.208.110.218)
+Host is up, received user-set (0.10s latency).
+Other addresses for deals.clover.com (not scanned): 54.69.139.218 52.32.64.133
+rDNS record for 34.208.110.218: ec2-34-208-110-218.us-west-2.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 747s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for feedback.stg1.dev.clover.com (52.20.49.116)
+Host is up, received user-set (0.10s latency).
+Other addresses for feedback.stg1.dev.clover.com (not scanned): 34.195.212.27
+rDNS record for 52.20.49.116: ec2-52-20-49-116.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 762s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for help.dev.clover.com (34.36.255.254)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.36.255.254: 254.255.36.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:07 EST for 767s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for link.clover.com (34.117.18.56)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.117.18.56: 56.18.117.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:07 EST for 765s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for dev-api-invoca.catalyst.clover.com (66.22.80.117)
+Host is up, received user-set (0.13s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1595s
+Not shown: 982 closed tcp ports (reset)
+PORT      STATE    SERVICE          REASON
+20/tcp    filtered ftp-data         no-response
+21/tcp    filtered ftp              no-response
+22/tcp    filtered ssh              no-response
+25/tcp    filtered smtp             port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain           syn-ack ttl 64
+80/tcp    open     http             syn-ack ttl 64
+161/tcp   filtered snmp             no-response
+179/tcp   filtered bgp              no-response
+406/tcp   filtered imsp             no-response
+443/tcp   open     https            syn-ack ttl 64
+666/tcp   filtered doom             no-response
+1067/tcp  filtered instl_boots      no-response
+3269/tcp  filtered globalcatLDAPssl no-response
+5060/tcp  open     sip              syn-ack ttl 64
+5988/tcp  filtered wbem-http        no-response
+6788/tcp  filtered smc-http         no-response
+8080/tcp  open     http-proxy       syn-ack ttl 64
+55056/tcp filtered unknown          no-response
+
+Nmap scan report for api-accounts.prod.catalyst.clover.com (35.167.212.29)
+Host is up, received user-set (0.10s latency).
+Other addresses for api-accounts.prod.catalyst.clover.com (not scanned): 35.84.58.221 54.148.50.105
+rDNS record for 35.167.212.29: ec2-35-167-212-29.us-west-2.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:06 EST for 772s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cert-self-serve-ui.catalyst.clover.com (167.86.43.39)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1577s
+Not shown: 988 closed tcp ports (reset)
+PORT      STATE    SERVICE    REASON
+20/tcp    filtered ftp-data   no-response
+21/tcp    filtered ftp        no-response
+22/tcp    filtered ssh        no-response
+25/tcp    filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain     syn-ack ttl 64
+80/tcp    open     http       syn-ack ttl 64
+161/tcp   filtered snmp       no-response
+179/tcp   filtered bgp        no-response
+443/tcp   open     https      syn-ack ttl 64
+5060/tcp  open     sip        syn-ack ttl 64
+8080/tcp  open     http-proxy syn-ack ttl 64
+10024/tcp filtered unknown    no-response
+
+Nmap scan report for get.clover.com (199.60.103.31)
+Host is up, received user-set (0.10s latency).
+Other addresses for get.clover.com (not scanned): 199.60.103.225 2606:2c40::c73c:671f 2606:2c40::c73c:67e1
+Scanned at 2025-02-26 10:24:06 EST for 773s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for otp.catalyst.clover.com (66.22.30.155)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1600s
+Not shown: 973 closed tcp ports (reset)
+PORT      STATE    SERVICE        REASON
+20/tcp    filtered ftp-data       no-response
+21/tcp    filtered ftp            no-response
+22/tcp    filtered ssh            no-response
+25/tcp    filtered smtp           port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain         syn-ack ttl 64
+80/tcp    open     http           syn-ack ttl 64
+161/tcp   filtered snmp           no-response
+179/tcp   filtered bgp            no-response
+211/tcp   filtered 914c-g         no-response
+443/tcp   open     https          syn-ack ttl 64
+666/tcp   filtered doom           no-response
+1058/tcp  filtered nim            no-response
+1999/tcp  filtered tcp-id-port    no-response
+2000/tcp  filtered cisco-sccp     no-response
+2383/tcp  filtered ms-olap4       no-response
+3766/tcp  filtered sitewatch-s    no-response
+3998/tcp  filtered dnx            no-response
+4343/tcp  filtered unicall        no-response
+5060/tcp  open     sip            syn-ack ttl 64
+6002/tcp  filtered X11:2          no-response
+6389/tcp  filtered clariion-evr01 no-response
+8000/tcp  filtered http-alt       no-response
+8080/tcp  open     http-proxy     syn-ack ttl 64
+8088/tcp  filtered radan-http     no-response
+20000/tcp filtered dnp            no-response
+32783/tcp filtered unknown        no-response
+60020/tcp filtered unknown        no-response
+
+Nmap scan report for link.dev.clover.com (34.117.211.53)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.117.211.53: 53.211.117.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:07 EST for 748s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for m.clover.com (3.233.108.250)
+Host is up, received user-set (0.10s latency).
+Other addresses for m.clover.com (not scanned): 54.157.2.211 3.233.187.46
+rDNS record for 3.233.108.250: ec2-3-233-108-250.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 757s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for perf-int.catalyst.clover.com (107.162.232.29)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:06 EST for 772s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for perf-api-rest.catalyst.clover.com (66.22.80.121)
+Host is up, received user-set (0.13s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1600s
+Not shown: 979 closed tcp ports (reset)
+PORT      STATE    SERVICE          REASON
+20/tcp    filtered ftp-data         no-response
+21/tcp    filtered ftp              no-response
+22/tcp    filtered ssh              no-response
+25/tcp    filtered smtp             port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain           syn-ack ttl 64
+80/tcp    open     http             syn-ack ttl 64
+161/tcp   filtered snmp             no-response
+179/tcp   filtered bgp              no-response
+443/tcp   open     https            syn-ack ttl 64
+911/tcp   filtered xact-backup      no-response
+2000/tcp  filtered cisco-sccp       no-response
+2022/tcp  filtered down             no-response
+3269/tcp  filtered globalcatLDAPssl no-response
+3766/tcp  filtered sitewatch-s      no-response
+4279/tcp  filtered vrml-multi-use   no-response
+5004/tcp  filtered avt-profile-1    no-response
+5060/tcp  open     sip              syn-ack ttl 64
+8080/tcp  open     http-proxy       syn-ack ttl 64
+9111/tcp  filtered DragonIDSConsole no-response
+18040/tcp filtered unknown          no-response
+50389/tcp filtered unknown          no-response
+
+Nmap scan report for perf-self-serve-ui.catalyst.clover.com (167.86.43.40)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1580s
+Not shown: 989 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Nmap scan report for feedback.staging.clover.com (34.195.212.27)
+Host is up, received user-set (0.10s latency).
+Other addresses for feedback.staging.clover.com (not scanned): 52.20.49.116
+rDNS record for 34.195.212.27: ec2-34-195-212-27.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:24:06 EST for 770s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for partner.clover.com (166.73.4.196)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 699s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for perf-api.catalyst.clover.com (107.162.232.63)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 764s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for api.catalyst.clover.com (107.162.232.80)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 692s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa-alt.catalyst.clover.com (167.86.43.68)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1595s
+Not shown: 985 closed tcp ports (reset)
+PORT      STATE    SERVICE      REASON
+20/tcp    filtered ftp-data     no-response
+21/tcp    filtered ftp          no-response
+22/tcp    filtered ssh          no-response
+25/tcp    filtered smtp         port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain       syn-ack ttl 64
+80/tcp    open     http         syn-ack ttl 64
+161/tcp   filtered snmp         no-response
+179/tcp   filtered bgp          no-response
+443/tcp   open     https        syn-ack ttl 64
+1998/tcp  filtered x25-svc-port no-response
+5060/tcp  open     sip          syn-ack ttl 64
+5900/tcp  filtered vnc          no-response
+7007/tcp  filtered afs3-bos     no-response
+8080/tcp  open     http-proxy   syn-ack ttl 64
+55056/tcp filtered unknown      no-response
+
+Nmap scan report for ap.clover.com (34.116.0.40)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.116.0.40: 40.0.116.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:07 EST for 685s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa-acct-mgmt.catalyst.clover.com (66.6.17.188)
+Host is up, received user-set (0.16s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1595s
+Not shown: 985 closed tcp ports (reset)
+PORT      STATE    SERVICE    REASON
+19/tcp    filtered chargen    no-response
+25/tcp    filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain     syn-ack ttl 64
+80/tcp    open     http       syn-ack ttl 64
+179/tcp   filtered bgp        no-response
+443/tcp   open     https      syn-ack ttl 64
+666/tcp   filtered doom       no-response
+1010/tcp  filtered surf       no-response
+3809/tcp  filtered apocd      no-response
+5060/tcp  open     sip        syn-ack ttl 64
+8080/tcp  open     http-proxy syn-ack ttl 64
+8500/tcp  filtered fmtp       no-response
+10009/tcp filtered swdtp-sv   no-response
+20000/tcp filtered dnp        no-response
+32783/tcp filtered unknown    no-response
+
+Nmap scan report for public.clover.com (35.201.74.249)
+Host is up, received user-set (0.10s latency).
+rDNS record for 35.201.74.249: 249.74.201.35.bc.googleusercontent.com
+Scanned at 2025-02-26 10:24:07 EST for 756s
+Not shown: 995 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa-self-serve-ui.catalyst.clover.com (167.86.43.42)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1583s
+Not shown: 989 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Nmap scan report for perf.catalyst.clover.com (107.162.232.60)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 767s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa-int.catalyst.clover.com (107.162.183.211)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:24:07 EST for 741s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for prod-websocket.prod.catalyst.clover.com (100.20.32.41)
+Host is up, received user-set (0.10s latency).
+Other addresses for prod-websocket.prod.catalyst.clover.com (not scanned): 44.237.149.16 54.184.60.188
+rDNS record for 100.20.32.41: ec2-100-20-32-41.us-west-2.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 669s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa-alt-int.catalyst.clover.com (167.86.43.69)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1593s
+Not shown: 984 closed tcp ports (reset)
+PORT      STATE    SERVICE           REASON
+20/tcp    filtered ftp-data          no-response
+21/tcp    filtered ftp               no-response
+22/tcp    filtered ssh               no-response
+25/tcp    filtered smtp              port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain            syn-ack ttl 64
+80/tcp    open     http              syn-ack ttl 64
+161/tcp   filtered snmp              no-response
+179/tcp   filtered bgp               no-response
+443/tcp   open     https             syn-ack ttl 64
+625/tcp   filtered apple-xsrvr-admin no-response
+1093/tcp  filtered proofd            no-response
+5060/tcp  open     sip               syn-ack ttl 64
+8008/tcp  filtered http              no-response
+8080/tcp  open     http-proxy        syn-ack ttl 64
+8194/tcp  filtered sophos            no-response
+16018/tcp filtered unknown           no-response
+
+Nmap scan report for qa-api-invoca.non-prod.catalyst.clover.com (44.239.130.219)
+Host is up, received user-set (0.10s latency).
+Other addresses for qa-api-invoca.non-prod.catalyst.clover.com (not scanned): 35.161.116.111 54.191.22.184
+rDNS record for 44.239.130.219: ec2-44-239-130-219.us-west-2.compute.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 756s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for sales.clover.com (151.101.131.10)
+Host is up, received user-set (0.10s latency).
+Other addresses for sales.clover.com (not scanned): 151.101.195.10 151.101.3.10 151.101.67.10
+Scanned at 2025-02-26 10:24:06 EST for 766s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for connect.clover.com (104.17.73.206)
+Host is up, received user-set (0.10s latency).
+Other addresses for connect.clover.com (not scanned): 104.17.74.206 104.17.70.206 104.17.71.206 104.17.72.206
+Scanned at 2025-02-26 10:24:07 EST for 737s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for getcapital.clover.com (3.229.73.76)
+Host is up, received user-set (0.10s latency).
+Other addresses for getcapital.clover.com (not scanned): 34.225.23.74
+rDNS record for 3.229.73.76: ec2-3-229-73-76.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 569s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa-otp.catalyst.clover.com (66.22.85.187)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:24:07 EST for 1611s
+Not shown: 983 closed tcp ports (reset)
+PORT     STATE    SERVICE      REASON
+9/tcp    filtered discard      no-response
+20/tcp   filtered ftp-data     no-response
+21/tcp   filtered ftp          no-response
+22/tcp   filtered ssh          no-response
+25/tcp   filtered smtp         port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain       syn-ack ttl 64
+80/tcp   open     http         syn-ack ttl 64
+161/tcp  filtered snmp         no-response
+179/tcp  filtered bgp          no-response
+443/tcp  open     https        syn-ack ttl 64
+1022/tcp filtered exp2         no-response
+2000/tcp filtered cisco-sccp   no-response
+5030/tcp filtered surfpass     no-response
+5060/tcp open     sip          syn-ack ttl 64
+7100/tcp filtered font-service no-response
+8080/tcp open     http-proxy   syn-ack ttl 64
+9102/tcp filtered jetdirect    no-response
+
+Nmap scan report for rewards.dev1.dev.clover.com (34.235.193.186)
+Host is up, received user-set (0.10s latency).
+Other addresses for rewards.dev1.dev.clover.com (not scanned): 23.21.86.188 35.168.141.12 107.21.94.65
+rDNS record for 34.235.193.186: ec2-34-235-193-186.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:24:07 EST for 512s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 13 hosts. at 10:50
+Completed Parallel DNS resolution of 13 hosts. at 10:51, 1.13s elapsed
+Initiating SYN Stealth Scan at 10:51
+Scanning 28 hosts [1000 ports/host]
+Discovered open port 53/tcp on 66.22.56.35
+Discovered open port 80/tcp on 66.22.56.35
+Discovered open port 80/tcp on 66.22.80.122
+Discovered open port 80/tcp on 167.86.43.38
+Discovered open port 80/tcp on 167.86.43.41
+Discovered open port 80/tcp on 66.22.85.186
+Discovered open port 53/tcp on 66.22.56.145
+Discovered open port 80/tcp on 66.6.29.162
+Discovered open port 80/tcp on 66.22.56.145
+Discovered open port 8080/tcp on 66.22.56.35
+Discovered open port 8080/tcp on 66.22.80.122
+Discovered open port 8080/tcp on 66.22.85.186
+Discovered open port 8080/tcp on 167.86.43.38
+Discovered open port 8080/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 167.86.43.41
+Discovered open port 8080/tcp on 66.22.56.145
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 53/tcp on 151.101.195.10
+Discovered open port 53/tcp on 34.195.212.27
+Discovered open port 53/tcp on 107.162.232.59
+Discovered open port 53/tcp on 54.158.149.68
+Discovered open port 53/tcp on 104.16.94.80
+Discovered open port 53/tcp on 18.160.213.94
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 80/tcp on 151.101.195.10
+Discovered open port 80/tcp on 34.195.212.27
+Discovered open port 80/tcp on 107.162.232.59
+Discovered open port 80/tcp on 54.158.149.68
+Discovered open port 80/tcp on 104.16.94.80
+Discovered open port 80/tcp on 18.160.213.94
+Discovered open port 8080/tcp on 107.162.232.59
+Discovered open port 8080/tcp on 54.158.149.68
+Discovered open port 8080/tcp on 104.16.94.80
+Discovered open port 8080/tcp on 18.160.213.94
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 151.101.195.10
+Discovered open port 8080/tcp on 34.195.212.27
+Discovered open port 53/tcp on 151.101.3.10
+Discovered open port 53/tcp on 167.86.43.38
+Discovered open port 53/tcp on 66.22.80.122
+Discovered open port 53/tcp on 66.6.29.162
+Discovered open port 53/tcp on 66.22.85.186
+Discovered open port 80/tcp on 151.101.3.10
+Discovered open port 53/tcp on 23.21.86.188
+Discovered open port 53/tcp on 66.6.17.186
+Discovered open port 53/tcp on 167.86.43.41
+Discovered open port 53/tcp on 107.162.183.211
+Discovered open port 80/tcp on 66.6.17.186
+Discovered open port 80/tcp on 107.162.183.211
+Discovered open port 53/tcp on 34.111.136.147
+Discovered open port 80/tcp on 23.21.86.188
+Discovered open port 53/tcp on 107.162.183.213
+Discovered open port 53/tcp on 34.98.98.113
+Increasing send delay for 167.86.43.38 from 0 to 5 due to max_successful_tryno increase to 4
+Increasing send delay for 66.22.56.145 from 0 to 5 due to max_successful_tryno increase to 4
+Increasing send delay for 66.22.85.186 from 0 to 5 due to max_successful_tryno increase to 4
+Increasing send delay for 66.6.29.162 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 80/tcp on 34.111.136.147
+Discovered open port 53/tcp on 34.8.59.252
+Increasing send delay for 167.86.43.38 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 53/tcp on 3.170.152.118
+Discovered open port 53/tcp on 104.16.241.118
+Discovered open port 80/tcp on 107.162.183.213
+Discovered open port 53/tcp on 166.73.4.195
+Discovered open port 53/tcp on 107.162.183.212
+Increasing send delay for 66.22.56.145 from 5 to 10 due to max_successful_tryno increase to 5
+Increasing send delay for 66.6.29.162 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 80/tcp on 34.98.98.113
+Discovered open port 80/tcp on 104.16.241.118
+Discovered open port 80/tcp on 3.170.152.118
+Discovered open port 80/tcp on 34.8.59.252
+Discovered open port 80/tcp on 166.73.4.195
+Discovered open port 53/tcp on 107.162.180.200
+Discovered open port 80/tcp on 107.162.180.200
+Increasing send delay for 66.22.56.35 from 0 to 5 due to 11 out of 19 dropped probes since last increase.
+Discovered open port 53/tcp on 34.98.98.115
+Discovered open port 80/tcp on 107.162.183.212
+Discovered open port 8080/tcp on 23.21.86.188
+Discovered open port 8080/tcp on 151.101.3.10
+Discovered open port 8080/tcp on 104.16.241.118
+Discovered open port 8080/tcp on 34.111.136.147
+Discovered open port 80/tcp on 34.98.98.115
+Discovered open port 8080/tcp on 166.73.4.195
+Discovered open port 8080/tcp on 107.162.183.211
+Discovered open port 8080/tcp on 107.162.183.213
+Discovered open port 8080/tcp on 34.98.98.113
+Discovered open port 8080/tcp on 66.6.17.186
+Discovered open port 443/tcp on 54.158.149.68
+Discovered open port 8080/tcp on 3.170.152.118
+Discovered open port 8080/tcp on 107.162.183.212
+Discovered open port 443/tcp on 107.162.232.59
+Discovered open port 8080/tcp on 107.162.180.200
+Discovered open port 443/tcp on 34.195.212.27
+Discovered open port 8080/tcp on 34.8.59.252
+Discovered open port 8080/tcp on 34.98.98.115
+Increasing send delay for 167.86.43.41 from 0 to 5 due to 11 out of 22 dropped probes since last increase.
+Increasing send delay for 66.6.17.186 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 443/tcp on 66.22.56.35
+Increasing send delay for 66.22.80.122 from 0 to 5 due to 11 out of 22 dropped probes since last increase.
+Discovered open port 443/tcp on 104.16.94.80
+Discovered open port 443/tcp on 18.160.213.94
+Discovered open port 443/tcp on 66.22.56.145
+Discovered open port 443/tcp on 167.86.43.41
+Discovered open port 443/tcp on 151.101.127.10
+Increasing send delay for 167.86.43.41 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 167.86.43.41 from 10 to 20 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 66.22.80.122
+Discovered open port 443/tcp on 167.86.43.38
+Increasing send delay for 66.6.29.162 from 10 to 20 due to 11 out of 13 dropped probes since last increase.
+SYN Stealth Scan Timing: About 2.57% done; ETC: 11:11 (0:19:36 remaining)
+Increasing send delay for 167.86.43.38 from 10 to 20 due to 11 out of 18 dropped probes since last increase.
+Discovered open port 443/tcp on 151.101.3.10
+Increasing send delay for 66.22.85.186 from 5 to 10 due to max_successful_tryno increase to 5
+Increasing send delay for 66.22.80.122 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 66.6.17.186 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 107.162.183.211
+Discovered open port 443/tcp on 66.22.85.186
+Discovered open port 443/tcp on 151.101.195.10
+Discovered open port 443/tcp on 34.98.98.113
+Increasing send delay for 66.6.17.186 from 10 to 20 due to max_successful_tryno increase to 6
+Discovered open port 443/tcp on 3.170.152.118
+Increasing send delay for 66.22.56.35 from 5 to 10 due to 11 out of 20 dropped probes since last increase.
+Discovered open port 443/tcp on 107.162.183.213
+Discovered open port 443/tcp on 166.73.4.195
+Discovered open port 443/tcp on 104.16.241.118
+Discovered open port 443/tcp on 66.6.17.186
+Discovered open port 443/tcp on 34.111.136.147
+Discovered open port 443/tcp on 23.21.86.188
+Discovered open port 443/tcp on 66.6.29.162
+Discovered open port 443/tcp on 107.162.180.200
+Increasing send delay for 66.22.56.145 from 10 to 20 due to 11 out of 20 dropped probes since last increase.
+Increasing send delay for 167.86.43.41 from 20 to 40 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 10 to 20 due to max_successful_tryno increase to 4
+Discovered open port 443/tcp on 34.8.59.252
+Increasing send delay for 66.6.29.162 from 20 to 40 due to max_successful_tryno increase to 6
+Discovered open port 443/tcp on 107.162.183.212
+Discovered open port 443/tcp on 34.98.98.115
+Increasing send delay for 66.22.85.186 from 10 to 20 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 167.86.43.38 from 20 to 40 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 66.22.80.122 from 10 to 20 due to max_successful_tryno increase to 5
+Increasing send delay for 66.22.80.122 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 66.22.80.122 from 40 to 80 due to max_successful_tryno increase to 7
+Increasing send delay for 66.6.17.186 from 20 to 40 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 20 to 40 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 167.86.43.41 from 40 to 80 due to 11 out of 20 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 40 to 80 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 40 to 80 due to max_successful_tryno increase to 5
+Increasing send delay for 66.22.56.35 from 80 to 160 due to max_successful_tryno increase to 6
+Increasing send delay for 66.22.56.35 from 160 to 320 due to max_successful_tryno increase to 7
+Increasing send delay for 167.86.43.38 from 40 to 80 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.85.186 from 20 to 40 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.22.85.186 from 40 to 80 due to max_successful_tryno increase to 6
+Increasing send delay for 66.22.56.145 from 20 to 40 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.6.17.186 from 40 to 80 due to max_successful_tryno increase to 7
+Increasing send delay for 66.6.17.186 from 80 to 160 due to max_successful_tryno increase to 8
+Increasing send delay for 66.6.17.186 from 160 to 320 due to max_successful_tryno increase to 9
+Increasing send delay for 167.86.43.41 from 80 to 160 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 167.86.43.38 from 80 to 160 due to max_successful_tryno increase to 6
+Increasing send delay for 167.86.43.38 from 160 to 320 due to max_successful_tryno increase to 7
+Increasing send delay for 66.22.56.145 from 40 to 80 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.29.162 from 80 to 160 due to max_successful_tryno increase to 7
+SYN Stealth Scan Timing: About 6.74% done; ETC: 11:10 (0:18:13 remaining)
+Increasing send delay for 66.22.85.186 from 80 to 160 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 66.22.80.122 from 80 to 160 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 167.86.43.41 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.22.56.35 from 320 to 640 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 160 to 320 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 80 to 160 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.22.85.186 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.6.17.186 from 320 to 640 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 66.22.80.122 from 160 to 320 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.38 from 320 to 640 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.41 from 320 to 640 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 160 to 320 due to 11 out of 16 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+SYN Stealth Scan Timing: About 11.03% done; ETC: 11:07 (0:14:39 remaining)
+Increasing send delay for 66.22.85.186 from 320 to 640 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 66.22.85.186 from 640 to 1000 due to max_successful_tryno increase to 7
+Increasing send delay for 66.22.56.35 from 640 to 1000 due to 11 out of 15 dropped probes since last increase.
+Increasing send delay for 66.22.80.122 from 320 to 640 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.38 from 640 to 1000 due to 11 out of 14 dropped probes since last increase.
+Increasing send delay for 167.86.43.41 from 640 to 1000 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 320 to 640 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.6.17.186 from 640 to 1000 due to 11 out of 16 dropped probes since last increase.
+SYN Stealth Scan Timing: About 20.02% done; ETC: 11:02 (0:09:15 remaining)
+Increasing send delay for 66.6.29.162 from 640 to 1000 due to 11 out of 14 dropped probes since last increase.
+Discovered open port 5060/tcp on 23.21.86.188
+Discovered open port 5060/tcp on 107.162.232.59
+Increasing send delay for 66.22.56.145 from 640 to 1000 due to 11 out of 12 dropped probes since last increase.
+Warning: 66.6.29.162 giving up on port because retransmission cap hit (10).
+Discovered open port 5060/tcp on 34.111.136.147
+SYN Stealth Scan Timing: About 30.76% done; ETC: 11:00 (0:06:20 remaining)
+Increasing send delay for 66.22.80.122 from 640 to 1000 due to 11 out of 15 dropped probes since last increase.
+Discovered open port 5060/tcp on 18.160.213.94
+Discovered open port 5060/tcp on 107.162.183.211
+Warning: 66.6.17.186 giving up on port because retransmission cap hit (10).
+Completed SYN Stealth Scan against 23.21.86.188 in 193.27s (27 hosts left)
+Completed SYN Stealth Scan against 107.162.232.59 in 193.65s (26 hosts left)
+SYN Stealth Scan Timing: About 41.35% done; ETC: 10:59 (0:04:42 remaining)
+Completed SYN Stealth Scan against 34.111.136.147 in 208.09s (25 hosts left)
+Discovered open port 5060/tcp on 166.73.4.195
+Discovered open port 5060/tcp on 54.158.149.68
+Discovered open port 5060/tcp on 3.170.152.118
+Discovered open port 5060/tcp on 34.8.59.252
+Discovered open port 5060/tcp on 107.162.183.212
+Discovered open port 5060/tcp on 151.101.3.10
+Discovered open port 5060/tcp on 34.98.98.113
+Discovered open port 5060/tcp on 34.195.212.27
+Discovered open port 5060/tcp on 151.101.195.10
+Discovered open port 5060/tcp on 104.16.241.118
+SYN Stealth Scan Timing: About 55.21% done; ETC: 10:57 (0:03:06 remaining)
+Completed SYN Stealth Scan against 166.73.4.195 in 229.17s (24 hosts left)
+Discovered open port 5060/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 107.162.183.213
+Completed SYN Stealth Scan against 54.158.149.68 in 232.42s (23 hosts left)
+Discovered open port 5060/tcp on 107.162.180.200
+Discovered open port 5060/tcp on 34.98.98.115
+Discovered open port 5060/tcp on 104.16.94.80
+Completed SYN Stealth Scan against 107.162.180.200 in 254.52s (22 hosts left)
+Completed SYN Stealth Scan against 107.162.183.211 in 258.41s (21 hosts left)
+SYN Stealth Scan Timing: About 70.26% done; ETC: 10:57 (0:01:50 remaining)
+Completed SYN Stealth Scan against 104.16.94.80 in 262.46s (20 hosts left)
+Completed SYN Stealth Scan against 18.160.213.94 in 263.32s (19 hosts left)
+Completed SYN Stealth Scan against 107.162.183.212 in 265.56s (18 hosts left)
+Completed SYN Stealth Scan against 107.162.183.213 in 267.38s (17 hosts left)
+Completed SYN Stealth Scan against 34.8.59.252 in 268.98s (16 hosts left)
+Completed SYN Stealth Scan against 151.101.3.10 in 270.49s (15 hosts left)
+Completed SYN Stealth Scan against 34.98.98.113 in 272.16s (14 hosts left)
+Completed SYN Stealth Scan against 151.101.195.10 in 272.59s (13 hosts left)
+Completed SYN Stealth Scan against 151.101.127.10 in 272.77s (12 hosts left)
+Completed SYN Stealth Scan against 34.195.212.27 in 273.23s (11 hosts left)
+Completed SYN Stealth Scan against 3.170.152.118 in 273.76s (10 hosts left)
+Completed SYN Stealth Scan against 34.98.98.115 in 274.66s (9 hosts left)
+Completed SYN Stealth Scan against 104.16.241.118 in 275.32s (8 hosts left)
+Warning: 66.22.85.186 giving up on port because retransmission cap hit (10).
+Warning: 66.22.80.122 giving up on port because retransmission cap hit (10).
+SYN Stealth Scan Timing: About 77.73% done; ETC: 10:58 (0:01:46 remaining)
+SYN Stealth Scan Timing: About 80.81% done; ETC: 11:00 (0:01:54 remaining)
+SYN Stealth Scan Timing: About 84.06% done; ETC: 11:02 (0:01:52 remaining)
+SYN Stealth Scan Timing: About 87.30% done; ETC: 11:04 (0:01:43 remaining)
+Discovered open port 5060/tcp on 66.22.56.145
+Discovered open port 5060/tcp on 167.86.43.41
+Discovered open port 5060/tcp on 167.86.43.38
+Discovered open port 5060/tcp on 66.22.56.35
+Discovered open port 5060/tcp on 66.22.85.186
+Discovered open port 5060/tcp on 66.6.29.162
+Discovered open port 5060/tcp on 66.22.80.122
+SYN Stealth Scan Timing: About 90.20% done; ETC: 11:05 (0:01:28 remaining)
+Discovered open port 5060/tcp on 66.6.17.186
+SYN Stealth Scan Timing: About 92.62% done; ETC: 11:07 (0:01:12 remaining)
+SYN Stealth Scan Timing: About 94.67% done; ETC: 11:08 (0:00:55 remaining)
+SYN Stealth Scan Timing: About 96.29% done; ETC: 11:08 (0:00:40 remaining)
+Completed SYN Stealth Scan against 66.22.56.145 in 1159.65s (7 hosts left)
+Completed SYN Stealth Scan against 167.86.43.41 in 1168.38s (6 hosts left)
+Completed SYN Stealth Scan against 167.86.43.38 in 1176.38s (5 hosts left)
+Completed SYN Stealth Scan against 66.22.56.35 in 1183.38s (4 hosts left)
+Completed SYN Stealth Scan against 66.22.85.186 in 1191.90s (3 hosts left)
+Completed SYN Stealth Scan against 66.6.29.162 in 1193.35s (2 hosts left)
+Completed SYN Stealth Scan against 66.22.80.122 in 1196.53s (1 host left)
+Completed SYN Stealth Scan at 11:11, 1214.57s elapsed (28000 total ports)
+Nmap scan report for pco.dev.clover.com (18.160.213.94)
+Host is up, received user-set (0.10s latency).
+Other addresses for pco.dev.clover.com (not scanned): 18.160.213.22 18.160.213.14 18.160.213.70 2600:9000:24d2:6600:2:3c31:1580:93a1 2600:9000:24d2:600:2:3c31:1580:93a1 2600:9000:24d2:4e00:2:3c31:1580:93a1 2600:9000:24d2:da00:2:3c31:1580:93a1 2600:9000:24d2:bc00:2:3c31:1580:93a1 2600:9000:24d2:6000:2:3c31:1580:93a1 2600:9000:24d2:5a00:2:3c31:1580:93a1 2600:9000:24d2:ce00:2:3c31:1580:93a1
+rDNS record for 18.160.213.94: server-18-160-213-94.ord58.r.cloudfront.net
+Scanned at 2025-02-26 10:51:00 EST for 263s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for partnerdocs.clover.com (104.16.241.118)
+Host is up, received user-set (0.10s latency).
+Other addresses for partnerdocs.clover.com (not scanned): 104.16.242.118 2606:4700::6810:f276 2606:4700::6810:f176
+Scanned at 2025-02-26 10:51:00 EST for 275s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for stage-int.catalyst.clover.com (107.162.183.212)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:51:00 EST for 265s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for stage-self-serve-ui.catalyst.clover.com (167.86.43.41)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1168s
+Not shown: 987 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+1119/tcp filtered bnetgame   no-response
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+9102/tcp filtered jetdirect  no-response
+
+Nmap scan report for stage-otp.catalyst.clover.com (66.22.85.186)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1191s
+Not shown: 987 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+144/tcp  filtered news       no-response
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8045/tcp filtered unknown    no-response
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Nmap scan report for self-serve-ui.catalyst.clover.com (167.86.43.38)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1176s
+Not shown: 986 closed tcp ports (reset)
+PORT     STATE    SERVICE        REASON
+20/tcp   filtered ftp-data       no-response
+21/tcp   filtered ftp            no-response
+22/tcp   filtered ssh            no-response
+25/tcp   filtered smtp           port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain         syn-ack ttl 64
+80/tcp   open     http           syn-ack ttl 64
+161/tcp  filtered snmp           no-response
+179/tcp  filtered bgp            no-response
+443/tcp  open     https          syn-ack ttl 64
+2383/tcp filtered ms-olap4       no-response
+4242/tcp filtered vrml-multi-use no-response
+5060/tcp open     sip            syn-ack ttl 64
+8080/tcp open     http-proxy     syn-ack ttl 64
+9102/tcp filtered jetdirect      no-response
+
+Nmap scan report for stage-api-invoca.catalyst.clover.com (66.22.80.122)
+Host is up, received user-set (0.13s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1196s
+Not shown: 985 closed tcp ports (reset)
+PORT     STATE    SERVICE        REASON
+20/tcp   filtered ftp-data       no-response
+21/tcp   filtered ftp            no-response
+22/tcp   filtered ssh            no-response
+25/tcp   filtered smtp           port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain         syn-ack ttl 64
+80/tcp   open     http           syn-ack ttl 64
+161/tcp  filtered snmp           no-response
+179/tcp  filtered bgp            no-response
+443/tcp  open     https          syn-ack ttl 64
+1039/tcp filtered sbl            no-response
+1081/tcp filtered pvuniwien      no-response
+5060/tcp open     sip            syn-ack ttl 64
+5925/tcp filtered unknown        no-response
+8080/tcp open     http-proxy     syn-ack ttl 64
+8888/tcp filtered sun-answerbook no-response
+
+Nmap scan report for storage.clover.com (34.8.59.252)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.8.59.252: 252.59.8.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:51:00 EST for 268s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for storage.dev.clover.com (34.111.136.147)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.111.136.147: 147.136.111.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:51:00 EST for 208s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for test-int.catalyst.clover.com (107.162.232.59)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:51:00 EST for 193s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for status.clover.com (3.170.152.118)
+Host is up, received user-set (0.10s latency).
+Other addresses for status.clover.com (not scanned): 3.170.152.78 3.170.152.32 3.170.152.125
+rDNS record for 3.170.152.118: server-3-170-152-118.ord58.r.cloudfront.net
+Scanned at 2025-02-26 10:51:00 EST for 273s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for merchantservices.clover.com (151.101.195.10)
+Host is up, received user-set (0.10s latency).
+Other addresses for merchantservices.clover.com (not scanned): 151.101.3.10 151.101.67.10 151.101.131.10
+Scanned at 2025-02-26 10:51:00 EST for 272s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for stage-acct-mgmt.catalyst.clover.com (66.6.17.186)
+Host is up, received user-set (0.16s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1214s
+Not shown: 985 closed tcp ports (reset)
+PORT      STATE    SERVICE        REASON
+19/tcp    filtered chargen        no-response
+22/tcp    filtered ssh            no-response
+25/tcp    filtered smtp           port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain         syn-ack ttl 64
+80/tcp    open     http           syn-ack ttl 64
+179/tcp   filtered bgp            no-response
+443/tcp   open     https          syn-ack ttl 64
+1009/tcp  filtered unknown        no-response
+3918/tcp  filtered pktcablemmcops no-response
+5060/tcp  open     sip            syn-ack ttl 64
+8080/tcp  open     http-proxy     syn-ack ttl 64
+8090/tcp  filtered opsmessaging   no-response
+8222/tcp  filtered unknown        no-response
+15660/tcp filtered bex-xr         no-response
+27715/tcp filtered unknown        no-response
+
+Nmap scan report for go.clover.com (104.16.94.80)
+Host is up, received user-set (0.10s latency).
+Other addresses for go.clover.com (not scanned): 104.16.96.80 104.16.93.80 104.16.95.80 104.16.92.80
+Scanned at 2025-02-26 10:51:00 EST for 262s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.staging.clover.com (34.98.98.113)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.98.98.113: 113.98.98.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:51:00 EST for 272s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa.customers.clover.com (23.21.86.188)
+Host is up, received user-set (0.10s latency).
+Other addresses for qa.customers.clover.com (not scanned): 107.21.94.65 34.235.193.186 35.168.141.12
+rDNS record for 23.21.86.188: ec2-23-21-86-188.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:51:00 EST for 193s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cld-stage-tap.clover.com (66.22.56.145)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1159s
+Not shown: 976 closed tcp ports (reset)
+PORT      STATE    SERVICE         REASON
+20/tcp    filtered ftp-data        no-response
+21/tcp    filtered ftp             no-response
+22/tcp    filtered ssh             no-response
+25/tcp    filtered smtp            port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain          syn-ack ttl 64
+80/tcp    open     http            syn-ack ttl 64
+85/tcp    filtered mit-ml-dev      no-response
+161/tcp   filtered snmp            no-response
+179/tcp   filtered bgp             no-response
+406/tcp   filtered imsp            no-response
+443/tcp   open     https           syn-ack ttl 64
+1009/tcp  filtered unknown         no-response
+1067/tcp  filtered instl_boots     no-response
+1087/tcp  filtered cplscrambler-in no-response
+2009/tcp  filtered news            no-response
+3918/tcp  filtered pktcablemmcops  no-response
+4242/tcp  filtered vrml-multi-use  no-response
+5060/tcp  open     sip             syn-ack ttl 64
+8080/tcp  open     http-proxy      syn-ack ttl 64
+8194/tcp  filtered sophos          no-response
+8873/tcp  filtered dxspider        no-response
+9418/tcp  filtered git             no-response
+10024/tcp filtered unknown         no-response
+19842/tcp filtered unknown         no-response
+
+Nmap scan report for d.clover.com (166.73.4.195)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:51:00 EST for 229s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for br.clover.com (66.6.29.162)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1193s
+Not shown: 988 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+85/tcp   filtered mit-ml-dev no-response
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Nmap scan report for dev.catalyst.clover.com (107.162.180.200)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:51:00 EST for 254s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for int.catalyst.clover.com (107.162.183.213)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:51:00 EST for 267s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for hello.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:51:00 EST for 272s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for customers.clover.com (54.158.149.68)
+Host is up, received user-set (0.10s latency).
+Other addresses for customers.clover.com (not scanned): 52.7.186.153
+rDNS record for 54.158.149.68: ec2-54-158-149-68.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:51:00 EST for 232s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cld-stage-talent.clover.com (66.22.56.35)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 10:51:00 EST for 1183s
+Not shown: 987 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+43/tcp   filtered whois      no-response
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+85/tcp   filtered mit-ml-dev no-response
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Nmap scan report for d.staging.clover.com (34.98.98.115)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.98.98.115: 115.98.98.34.bc.googleusercontent.com
+Scanned at 2025-02-26 10:51:00 EST for 274s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for nl.clover.com (151.101.3.10)
+Host is up, received user-set (0.10s latency).
+Other addresses for nl.clover.com (not scanned): 151.101.67.10 151.101.131.10 151.101.195.10
+Scanned at 2025-02-26 10:51:00 EST for 270s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for promos.stg1.dev.clover.com (34.195.212.27)
+Host is up, received user-set (0.10s latency).
+Other addresses for promos.stg1.dev.clover.com (not scanned): 52.20.49.116
+rDNS record for 34.195.212.27: ec2-34-195-212-27.compute-1.amazonaws.com
+Scanned at 2025-02-26 10:51:00 EST for 273s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for qa.catalyst.clover.com (107.162.183.211)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 10:51:00 EST for 258s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 5 hosts. at 11:11
+Completed Parallel DNS resolution of 5 hosts. at 11:11, 1.09s elapsed
+Initiating Parallel DNS resolution of 2 hosts. at 11:11
+Completed Parallel DNS resolution of 2 hosts. at 11:11, 0.41s elapsed
+Initiating SYN Stealth Scan at 11:11
+Scanning 13 hosts [1000 ports/host]
+Discovered open port 53/tcp on 66.22.56.145
+Discovered open port 53/tcp on 66.6.29.162
+Discovered open port 80/tcp on 66.22.56.145
+Discovered open port 80/tcp on 66.6.29.162
+Discovered open port 80/tcp on 107.162.183.212
+Discovered open port 80/tcp on 107.162.183.213
+Discovered open port 8080/tcp on 66.22.56.145
+Discovered open port 8080/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 107.162.183.212
+Discovered open port 8080/tcp on 107.162.183.213
+Discovered open port 443/tcp on 66.22.56.145
+Discovered open port 443/tcp on 66.6.29.162
+Discovered open port 53/tcp on 34.116.0.40
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 53/tcp on 34.195.212.27
+Discovered open port 80/tcp on 34.116.0.40
+Discovered open port 53/tcp on 166.73.5.41
+Discovered open port 53/tcp on 166.73.5.57
+Discovered open port 53/tcp on 34.98.98.113
+Discovered open port 53/tcp on 52.20.49.116
+Discovered open port 53/tcp on 166.73.4.193
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 80/tcp on 34.195.212.27
+Discovered open port 80/tcp on 166.73.5.41
+Discovered open port 80/tcp on 166.73.5.57
+Discovered open port 80/tcp on 34.98.98.113
+Discovered open port 80/tcp on 52.20.49.116
+Discovered open port 80/tcp on 166.73.4.193
+Discovered open port 53/tcp on 151.101.3.10
+Discovered open port 8080/tcp on 34.116.0.40
+Discovered open port 8080/tcp on 34.98.98.113
+Discovered open port 53/tcp on 107.162.183.212
+Discovered open port 8080/tcp on 166.73.5.41
+Discovered open port 8080/tcp on 166.73.5.57
+Discovered open port 8080/tcp on 52.20.49.116
+Discovered open port 8080/tcp on 166.73.4.193
+Discovered open port 80/tcp on 151.101.3.10
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 151.101.3.10
+Discovered open port 8080/tcp on 34.195.212.27
+Discovered open port 443/tcp on 166.73.4.193
+Discovered open port 443/tcp on 34.98.98.113
+Discovered open port 443/tcp on 34.116.0.40
+Discovered open port 443/tcp on 151.101.3.10
+Discovered open port 443/tcp on 107.162.183.213
+Increasing send delay for 66.6.29.162 from 0 to 5 due to max_successful_tryno increase to 4
+Discovered open port 443/tcp on 52.20.49.116
+Discovered open port 443/tcp on 166.73.5.41
+Discovered open port 443/tcp on 166.73.5.57
+Increasing send delay for 66.6.29.162 from 5 to 10 due to max_successful_tryno increase to 5
+Discovered open port 443/tcp on 107.162.183.212
+Discovered open port 443/tcp on 151.101.127.10
+Discovered open port 443/tcp on 34.195.212.27
+Increasing send delay for 66.22.56.145 from 0 to 5 due to max_successful_tryno increase to 4
+Increasing send delay for 66.6.29.162 from 10 to 20 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.29.162 from 20 to 40 due to max_successful_tryno increase to 7
+Increasing send delay for 66.22.56.145 from 5 to 10 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 10 to 20 due to max_successful_tryno increase to 5
+Increasing send delay for 66.22.56.145 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 66.22.56.145 from 40 to 80 due to max_successful_tryno increase to 7
+Increasing send delay for 66.6.29.162 from 40 to 80 due to 11 out of 13 dropped probes since last increase.
+Increasing send delay for 66.22.56.145 from 80 to 160 due to max_successful_tryno increase to 8
+Increasing send delay for 66.22.56.145 from 160 to 320 due to max_successful_tryno increase to 9
+Increasing send delay for 66.22.56.145 from 320 to 640 due to max_successful_tryno increase to 10
+Increasing send delay for 66.6.29.162 from 80 to 160 due to 11 out of 12 dropped probes since last increase.
+Warning: 66.22.56.145 giving up on port because retransmission cap hit (10).
+SYN Stealth Scan Timing: About 13.83% done; ETC: 11:15 (0:03:13 remaining)
+Increasing send delay for 66.6.29.162 from 160 to 320 due to 11 out of 16 dropped probes since last increase.
+Discovered open port 5060/tcp on 166.73.4.193
+Discovered open port 5060/tcp on 151.101.3.10
+Completed SYN Stealth Scan against 166.73.4.193 in 50.37s (12 hosts left)
+Discovered open port 5060/tcp on 107.162.183.212
+Discovered open port 5060/tcp on 34.116.0.40
+Discovered open port 5060/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 52.20.49.116
+Discovered open port 5060/tcp on 166.73.5.41
+Discovered open port 5060/tcp on 34.98.98.113
+Discovered open port 5060/tcp on 166.73.5.41
+SYN Stealth Scan Timing: About 56.72% done; ETC: 11:13 (0:00:47 remaining)
+Increasing send delay for 66.6.29.162 from 320 to 640 due to max_successful_tryno increase to 8
+Discovered open port 5060/tcp on 166.73.5.57
+Completed SYN Stealth Scan against 107.162.183.212 in 66.40s (11 hosts left)
+Discovered open port 5060/tcp on 34.195.212.27
+Discovered open port 5060/tcp on 107.162.183.213
+Completed SYN Stealth Scan against 151.101.3.10 in 72.74s (10 hosts left)
+Completed SYN Stealth Scan against 107.162.183.213 in 74.08s (9 hosts left)
+Completed SYN Stealth Scan against 34.98.98.113 in 74.09s (8 hosts left)
+Completed SYN Stealth Scan against 151.101.127.10 in 75.13s (7 hosts left)
+Completed SYN Stealth Scan against 34.116.0.40 in 75.23s (6 hosts left)
+Completed SYN Stealth Scan against 52.20.49.116 in 75.77s (5 hosts left)
+Completed SYN Stealth Scan against 34.195.212.27 in 75.90s (4 hosts left)
+Completed SYN Stealth Scan against 166.73.5.57 in 76.00s (3 hosts left)
+Completed SYN Stealth Scan against 166.73.5.41 in 76.04s (2 hosts left)
+Discovered open port 5060/tcp on 66.6.29.162
+Discovered open port 5060/tcp on 66.22.56.145
+Stats: 0:56:29 elapsed; 92 hosts completed (105 up), 13 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 96.42% done; ETC: 11:20 (0:00:20 remaining)
+Completed SYN Stealth Scan against 66.6.29.162 in 683.63s (1 host left)
+Completed SYN Stealth Scan at 11:22, 699.00s elapsed (13000 total ports)
+Nmap scan report for stage.catalyst.clover.com (107.162.183.212)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:11:16 EST for 66s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.clover.com (166.73.4.193)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:11:16 EST for 50s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.eu.clover.com (166.73.5.57)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:11:16 EST for 76s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.ap.clover.com (34.116.0.40)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.116.0.40: 40.0.116.34.bc.googleusercontent.com
+Scanned at 2025-02-26 11:11:16 EST for 75s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.la.clover.com (166.73.5.41)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:11:16 EST for 76s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for staging.clover.com (34.98.98.113)
+Host is up, received user-set (0.10s latency).
+rDNS record for 34.98.98.113: 113.98.98.34.bc.googleusercontent.com
+Scanned at 2025-02-26 11:11:16 EST for 74s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for rewards.staging.clover.com (52.20.49.116)
+Host is up, received user-set (0.10s latency).
+Other addresses for rewards.staging.clover.com (not scanned): 34.195.212.27
+rDNS record for 52.20.49.116: ec2-52-20-49-116.compute-1.amazonaws.com
+Scanned at 2025-02-26 11:11:16 EST for 75s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for cld-stage-merchants.clover.com (66.22.56.145)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 11:11:16 EST for 699s
+Not shown: 986 closed tcp ports (reset)
+PORT     STATE    SERVICE         REASON
+20/tcp   filtered ftp-data        no-response
+21/tcp   filtered ftp             no-response
+22/tcp   filtered ssh             no-response
+25/tcp   filtered smtp            port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain          syn-ack ttl 64
+80/tcp   open     http            syn-ack ttl 64
+161/tcp  filtered snmp            no-response
+179/tcp  filtered bgp             no-response
+443/tcp  open     https           syn-ack ttl 64
+1087/tcp filtered cplscrambler-in no-response
+1812/tcp filtered radius          no-response
+4444/tcp filtered krb524          no-response
+5060/tcp open     sip             syn-ack ttl 64
+8080/tcp open     http-proxy      syn-ack ttl 64
+
+Nmap scan report for integrate.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:11:16 EST for 75s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for mex.clover.com (66.6.29.162)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 11:11:16 EST for 683s
+Not shown: 979 closed tcp ports (reset)
+PORT      STATE    SERVICE        REASON
+20/tcp    filtered ftp-data       no-response
+21/tcp    filtered ftp            no-response
+22/tcp    filtered ssh            no-response
+23/tcp    filtered telnet         no-response
+25/tcp    filtered smtp           port-unreach from 10.5.0.1 ttl 64
+53/tcp    open     domain         syn-ack ttl 64
+80/tcp    open     http           syn-ack ttl 64
+139/tcp   filtered netbios-ssn    no-response
+161/tcp   filtered snmp           no-response
+179/tcp   filtered bgp            no-response
+443/tcp   open     https          syn-ack ttl 64
+2179/tcp  filtered vmrdp          no-response
+3918/tcp  filtered pktcablemmcops no-response
+5060/tcp  open     sip            syn-ack ttl 64
+5631/tcp  filtered pcanywheredata no-response
+8080/tcp  open     http-proxy     syn-ack ttl 64
+8086/tcp  filtered d-s-n          no-response
+9595/tcp  filtered pds            no-response
+10024/tcp filtered unknown        no-response
+15660/tcp filtered bex-xr         no-response
+19842/tcp filtered unknown        no-response
+
+Nmap scan report for staging.customers.clover.com (34.195.212.27)
+Host is up, received user-set (0.10s latency).
+Other addresses for staging.customers.clover.com (not scanned): 52.20.49.116
+rDNS record for 34.195.212.27: ec2-34-195-212-27.compute-1.amazonaws.com
+Scanned at 2025-02-26 11:11:16 EST for 76s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.catalyst.clover.com (107.162.183.213)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:11:16 EST for 74s
+Not shown: 995 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.ar.clover.com (151.101.3.10)
+Host is up, received user-set (0.10s latency).
+Other addresses for www.ar.clover.com (not scanned): 151.101.67.10 151.101.131.10 151.101.195.10
+Scanned at 2025-02-26 11:11:16 EST for 72s
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 2 hosts. at 11:22
+Completed Parallel DNS resolution of 2 hosts. at 11:22, 0.84s elapsed
+Initiating SYN Stealth Scan at 11:22
+Scanning 2 hosts [1000 ports/host]
+Discovered open port 53/tcp on 66.6.29.162
+Discovered open port 80/tcp on 66.6.29.162
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 66.6.29.162
+Discovered open port 53/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 0 to 5 due to 16 out of 53 dropped probes since last increase.
+Discovered open port 443/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 66.6.29.162 from 10 to 20 due to max_successful_tryno increase to 5
+Increasing send delay for 66.6.29.162 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.29.162 from 40 to 80 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 80 to 160 due to 11 out of 17 dropped probes since last increase.
+Discovered open port 5060/tcp on 151.101.127.10
+SYN Stealth Scan Timing: About 42.42% done; ETC: 11:24 (0:00:42 remaining)
+Increasing send delay for 66.6.29.162 from 160 to 320 due to max_successful_tryno increase to 7
+Increasing send delay for 66.6.29.162 from 320 to 640 due to max_successful_tryno increase to 8
+Increasing send delay for 66.6.29.162 from 640 to 1000 due to max_successful_tryno increase to 9
+Completed SYN Stealth Scan against 151.101.127.10 in 37.71s (1 host left)
+SYN Stealth Scan Timing: About 57.33% done; ETC: 11:25 (0:00:54 remaining)
+SYN Stealth Scan Timing: About 58.55% done; ETC: 11:25 (0:01:13 remaining)
+SYN Stealth Scan Timing: About 59.73% done; ETC: 11:26 (0:01:30 remaining)
+SYN Stealth Scan Timing: About 61.53% done; ETC: 11:27 (0:01:46 remaining)
+SYN Stealth Scan Timing: About 63.78% done; ETC: 11:28 (0:02:02 remaining)
+SYN Stealth Scan Timing: About 67.52% done; ETC: 11:30 (0:02:19 remaining)
+SYN Stealth Scan Timing: About 74.53% done; ETC: 11:32 (0:02:27 remaining)
+SYN Stealth Scan Timing: About 81.88% done; ETC: 11:34 (0:02:08 remaining)
+Discovered open port 5060/tcp on 66.6.29.162
+SYN Stealth Scan Timing: About 87.73% done; ETC: 11:36 (0:01:39 remaining)
+SYN Stealth Scan Timing: About 92.68% done; ETC: 11:37 (0:01:04 remaining)
+SYN Stealth Scan Timing: About 95.98% done; ETC: 11:38 (0:00:37 remaining)
+Completed SYN Stealth Scan at 11:39, 968.69s elapsed (2000 total ports)
+Nmap scan report for partners.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:22:56 EST for 37s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.br.clover.com (66.6.29.162)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 11:22:56 EST for 968s
+Not shown: 989 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 2 hosts. at 11:39
+Completed Parallel DNS resolution of 2 hosts. at 11:39, 0.73s elapsed
+Initiating SYN Stealth Scan at 11:39
+Scanning 2 hosts [1000 ports/host]
+Discovered open port 53/tcp on 66.6.29.162
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 80/tcp on 66.6.29.162
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 66.6.29.162
+Discovered open port 443/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 0 to 5 due to 11 out of 35 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 66.6.29.162 from 10 to 20 due to max_successful_tryno increase to 5
+Increasing send delay for 66.6.29.162 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.29.162 from 40 to 80 due to max_successful_tryno increase to 7
+Discovered open port 5060/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 80 to 160 due to 11 out of 27 dropped probes since last increase.
+Completed SYN Stealth Scan against 151.101.127.10 in 23.65s (1 host left)
+SYN Stealth Scan Timing: About 63.39% done; ETC: 11:40 (0:00:30 remaining)
+SYN Stealth Scan Timing: About 72.78% done; ETC: 11:40 (0:00:31 remaining)
+Discovered open port 5060/tcp on 66.6.29.162
+Completed SYN Stealth Scan at 11:41, 171.95s elapsed (2000 total ports)
+Nmap scan report for talent.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:39:05 EST for 24s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.au.clover.com (66.6.29.162)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 11:39:05 EST for 172s
+Not shown: 988 closed tcp ports (reset)
+PORT     STATE    SERVICE       REASON
+20/tcp   filtered ftp-data      no-response
+21/tcp   filtered ftp           no-response
+22/tcp   filtered ssh           no-response
+25/tcp   filtered smtp          port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain        syn-ack ttl 64
+80/tcp   open     http          syn-ack ttl 64
+161/tcp  filtered snmp          no-response
+179/tcp  filtered bgp           no-response
+443/tcp  open     https         syn-ack ttl 64
+3389/tcp filtered ms-wbt-server no-response
+5060/tcp open     sip           syn-ack ttl 64
+8080/tcp open     http-proxy    syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 2 hosts. at 11:41
+Completed Parallel DNS resolution of 2 hosts. at 11:41, 0.86s elapsed
+Initiating SYN Stealth Scan at 11:41
+Scanning 2 hosts [1000 ports/host]
+Discovered open port 53/tcp on 66.6.29.162
+Discovered open port 80/tcp on 66.6.29.162
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 66.6.29.162
+Discovered open port 53/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 0 to 5 due to 16 out of 53 dropped probes since last increase.
+Discovered open port 443/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 5 to 10 due to max_successful_tryno increase to 4
+Increasing send delay for 66.6.29.162 from 10 to 20 due to max_successful_tryno increase to 5
+Increasing send delay for 66.6.29.162 from 20 to 40 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.29.162 from 40 to 80 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 80 to 160 due to 11 out of 20 dropped probes since last increase.
+SYN Stealth Scan Timing: About 34.32% done; ETC: 11:43 (0:00:59 remaining)
+Discovered open port 5060/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 160 to 320 due to 11 out of 13 dropped probes since last increase.
+Completed SYN Stealth Scan against 151.101.127.10 in 43.36s (1 host left)
+SYN Stealth Scan Timing: About 59.26% done; ETC: 11:43 (0:00:42 remaining)
+SYN Stealth Scan Timing: About 66.30% done; ETC: 11:44 (0:00:54 remaining)
+SYN Stealth Scan Timing: About 74.71% done; ETC: 11:45 (0:00:54 remaining)
+SYN Stealth Scan Timing: About 81.16% done; ETC: 11:46 (0:00:50 remaining)
+Discovered open port 5060/tcp on 66.6.29.162
+SYN Stealth Scan Timing: About 88.26% done; ETC: 11:46 (0:00:35 remaining)
+Completed SYN Stealth Scan at 11:47, 344.99s elapsed (2000 total ports)
+Nmap scan report for tap.clover.com (151.101.127.10)
+Host is up, received user-set (0.11s latency).
+Scanned at 2025-02-26 11:41:58 EST for 43s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for walmartbusiness.clover.com (66.6.29.162)
+Host is up, received user-set (0.12s latency).
+Scanned at 2025-02-26 11:41:58 EST for 345s
+Not shown: 983 closed tcp ports (reset)
+PORT     STATE    SERVICE          REASON
+20/tcp   filtered ftp-data         no-response
+21/tcp   filtered ftp              no-response
+22/tcp   filtered ssh              no-response
+25/tcp   filtered smtp             port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain           syn-ack ttl 64
+80/tcp   open     http             syn-ack ttl 64
+161/tcp  filtered snmp             no-response
+163/tcp  filtered cmip-man         no-response
+179/tcp  filtered bgp              no-response
+443/tcp  open     https            syn-ack ttl 64
+1272/tcp filtered cspmlockmgr      no-response
+3269/tcp filtered globalcatLDAPssl no-response
+4242/tcp filtered vrml-multi-use   no-response
+5060/tcp open     sip              syn-ack ttl 64
+7201/tcp filtered dlip             no-response
+8080/tcp open     http-proxy       syn-ack ttl 64
+9999/tcp filtered abyss            no-response
+
+Initiating Parallel DNS resolution of 1 host. at 11:47
+Completed Parallel DNS resolution of 1 host. at 11:47, 0.10s elapsed
+Initiating SYN Stealth Scan at 11:47
+Scanning 2 hosts [1000 ports/host]
+Discovered open port 53/tcp on 66.6.29.162
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 80/tcp on 66.6.29.162
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 66.6.29.162
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 66.6.29.162
+Discovered open port 443/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 0 to 5 due to max_successful_tryno increase to 4
+Increasing send delay for 66.6.29.162 from 5 to 10 due to max_successful_tryno increase to 5
+Increasing send delay for 66.6.29.162 from 10 to 20 due to max_successful_tryno increase to 6
+Increasing send delay for 66.6.29.162 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 66.6.29.162 from 40 to 80 due to 11 out of 18 dropped probes since last increase.
+Discovered open port 5060/tcp on 151.101.127.10
+Increasing send delay for 66.6.29.162 from 80 to 160 due to 11 out of 24 dropped probes since last increase.
+Completed SYN Stealth Scan against 151.101.127.10 in 26.50s (1 host left)
+SYN Stealth Scan Timing: About 61.99% done; ETC: 11:49 (0:00:30 remaining)
+SYN Stealth Scan Timing: About 71.39% done; ETC: 11:49 (0:00:32 remaining)
+Discovered open port 5060/tcp on 66.6.29.162
+Completed SYN Stealth Scan at 11:50, 173.65s elapsed (2000 total ports)
+Nmap scan report for sport.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:47:43 EST for 26s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Nmap scan report for www.mex.clover.com (66.6.29.162)
+Host is up, received user-set (0.13s latency).
+Scanned at 2025-02-26 11:47:43 EST for 174s
+Not shown: 988 closed tcp ports (reset)
+PORT     STATE    SERVICE    REASON
+20/tcp   filtered ftp-data   no-response
+21/tcp   filtered ftp        no-response
+22/tcp   filtered ssh        no-response
+25/tcp   filtered smtp       port-unreach from 10.5.0.1 ttl 64
+53/tcp   open     domain     syn-ack ttl 64
+80/tcp   open     http       syn-ack ttl 64
+161/tcp  filtered snmp       no-response
+179/tcp  filtered bgp        no-response
+443/tcp  open     https      syn-ack ttl 64
+1812/tcp filtered radius     no-response
+5060/tcp open     sip        syn-ack ttl 64
+8080/tcp open     http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 1 host. at 11:50
+Completed Parallel DNS resolution of 1 host. at 11:50, 0.10s elapsed
+Initiating SYN Stealth Scan at 11:50
+Scanning merchants.clover.com (151.101.127.10) [1000 ports]
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 151.101.127.10
+Completed SYN Stealth Scan at 11:50, 6.83s elapsed (1000 total ports)
+Nmap scan report for merchants.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:50:37 EST for 7s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 1 host. at 11:50
+Completed Parallel DNS resolution of 1 host. at 11:50, 0.10s elapsed
+Initiating SYN Stealth Scan at 11:50
+Scanning uk.clover.com (151.101.127.10) [1000 ports]
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 151.101.127.10
+Completed SYN Stealth Scan at 11:50, 6.83s elapsed (1000 total ports)
+Nmap scan report for uk.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:50:44 EST for 7s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 1 host. at 11:50
+Completed Parallel DNS resolution of 1 host. at 11:50, 0.10s elapsed
+Initiating SYN Stealth Scan at 11:50
+Scanning www.citimerchantservicesbyfirstdata.clover.com (151.101.127.10) [1000 ports]
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 151.101.127.10
+Completed SYN Stealth Scan at 11:50, 6.85s elapsed (1000 total ports)
+Nmap scan report for www.citimerchantservicesbyfirstdata.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:50:51 EST for 7s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Initiating Parallel DNS resolution of 1 host. at 11:50
+Completed Parallel DNS resolution of 1 host. at 11:50, 0.10s elapsed
+Initiating SYN Stealth Scan at 11:50
+Scanning www.uk.clover.com (151.101.127.10) [1000 ports]
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 151.101.127.10
+Completed SYN Stealth Scan at 11:51, 6.82s elapsed (1000 total ports)
+Nmap scan report for www.uk.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:50:58 EST for 7s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Initiating SYN Stealth Scan at 11:51
+Scanning www.sales.clover.com (151.101.127.10) [1000 ports]
+Discovered open port 53/tcp on 151.101.127.10
+Discovered open port 80/tcp on 151.101.127.10
+Discovered open port 8080/tcp on 151.101.127.10
+Discovered open port 443/tcp on 151.101.127.10
+Discovered open port 5060/tcp on 151.101.127.10
+Completed SYN Stealth Scan at 11:51, 6.83s elapsed (1000 total ports)
+Nmap scan report for www.sales.clover.com (151.101.127.10)
+Host is up, received user-set (0.10s latency).
+Scanned at 2025-02-26 11:51:05 EST for 6s
+Not shown: 994 filtered tcp ports (no-response), 1 filtered tcp ports (port-unreach)
+PORT     STATE SERVICE    REASON
+53/tcp   open  domain     syn-ack ttl 64
+80/tcp   open  http       syn-ack ttl 64
+443/tcp  open  https      syn-ack ttl 64
+5060/tcp open  sip        syn-ack ttl 64
+8080/tcp open  http-proxy syn-ack ttl 64
+
+Read data files from: /usr/share/nmap
+Nmap done: 118 IP addresses (118 hosts up) scanned in 5252.12 seconds
+           Raw packets sent: 239157 (10.523MB) | Rcvd: 47317 (2.530MB)
