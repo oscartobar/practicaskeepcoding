@@ -1,0 +1,166 @@
+[ * ] Fingerprints found; checking integrity with an upstream
+[ * ] Loaded 118 targets
+[ * ] Loaded 76 fingerprints
+[ No ] HTTPS by default (--https)
+[ 10 ] Concurrent requests (--concurrency)
+[ No ] Check target only if SSL is valid (--verify_ssl)
+[ 10 ] HTTP request timeout (in seconds) (--timeout)
+[ No ] Show only potentially vulnerable subdomains (--hide_fails)
+[ [31mHTTP ERROR[0m ]  -  checkout.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  c.clover.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  api.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  api.staging.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  api.eu.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  api.la.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  ar.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  careers.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  clover.com
+[ [31mNOT VULNERABLE[0m ]  -  cld-stage-merchantservices.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  cld-stage-tap.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  d.clover.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  cld-stage-uk.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  api.ap.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  c.staging.clover.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ [31mHTTP ERROR[0m ]  -  cld-stage-partners.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  cert-int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  dev-alt-int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  dev-self-serve-ui.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  cld-stage-merchants.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  eu.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  files.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  blog.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  dev-int.catalyst.clover.com
+[ [31mHTTP ERROR[0m ]  -  api-invoca.prod.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  help.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  feedback.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  deals.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  google.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  la.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  au.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  feedback.stg1.dev.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  dev.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  hello.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  docs.clover.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ [31mHTTP ERROR[0m ]  -  link.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  community.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  help.dev.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  integrate.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  dev-api-invoca.catalyst.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  d.staging.clover.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  br.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  customers.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  cld-stage-talent.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  nl.clover.com  [ Fastly ]
+[ [34mDISCUSSION[0m ]  -  [Issue #22](https://github.com/EdOverflow/can-i-take-over-xyz/issues/22)
+[ [34mDOCUMENTATION[0m ]  -  
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  cert-self-serve-ui.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  get.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  otp.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  link.dev.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  m.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  partners.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  partner.clover.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  perf-int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  perf-api-rest.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  feedback.staging.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  perf-self-serve-ui.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  public.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  api.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  perf-api.catalyst.clover.com
+[ [31mHTTP ERROR[0m ]  -  api-accounts.prod.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  qa-alt.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  promos.stg1.dev.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  qa-acct-mgmt.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  mex.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  sales.clover.com  [ Fastly ]
+[ [34mDISCUSSION[0m ]  -  [Issue #22](https://github.com/EdOverflow/can-i-take-over-xyz/issues/22)
+[ [34mDOCUMENTATION[0m ]  -  
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  qa-self-serve-ui.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  perf.catalyst.clover.com
+[ [31mHTTP ERROR[0m ]  -  catalyst-acct-evt-proc.prod.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  qa-int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  qa-alt-int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  qa.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  rewards.dev1.dev.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  partnerdocs.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  getcapital.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  pco.dev.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  qa-otp.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  connect.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  stage-int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  stage.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  stage-api-invoca.catalyst.clover.com
+[ [31mHTTP ERROR[0m ]  -  prod-websocket.prod.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  stage-self-serve-ui.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  stage-otp.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  storage.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  self-serve-ui.catalyst.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  talent.clover.com  [ Fastly ]
+[ [34mDISCUSSION[0m ]  -  [Issue #22](https://github.com/EdOverflow/can-i-take-over-xyz/issues/22)
+[ [34mDOCUMENTATION[0m ]  -  
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  ap.clover.com
+[ [31mHTTP ERROR[0m ]  -  qa-api-invoca.non-prod.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  storage.dev.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  tap.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  sport.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  merchants.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  status.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  staging.customers.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  merchantservices.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  uk.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  test-int.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.ar.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.staging.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  stage-acct-mgmt.catalyst.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.citimerchantservicesbyfirstdata.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.br.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  go.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.ap.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  staging.clover.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  www.sales.clover.com  [ Fastly ]
+[ [34mDISCUSSION[0m ]  -  [Issue #22](https://github.com/EdOverflow/can-i-take-over-xyz/issues/22)
+[ [34mDOCUMENTATION[0m ]  -  
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  www.eu.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.au.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.la.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.uk.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  rewards.staging.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  qa.customers.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  walmartbusiness.clover.com
+[ [31mNOT VULNERABLE[0m ]  -  www.mex.clover.com
